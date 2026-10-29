@@ -1,0 +1,1001 @@
+order_id,order_date,ship_date,ship_mode,product_name,category,price_per_unit,quantity,discount,total_spent,city,province
+PK-100001,2024-01-01,2024-01-09,Economy,Xiaomi Redmi Note 13,Electronics,58030,1,0.1,52227,Gujranwala,Punjab
+PK-100002,2024-01-02,2024-01-04,Express,Women's Khussa,Footwear,2760,2,0.15,4692,Islamabad,Islamabad Capital Territory
+PK-100003,2024-01-02,2024-01-05,Standard,Power Bank 20000mAh,Electronics,6060,2,0.05,11514,Mardan,Khyber Pakhtunkhwa
+PK-100004,2024-01-04,2024-01-06,Express,Bluetooth Speaker,Electronics,4290,1,0.05,4076,Multan,Punjab
+PK-100005,2024-01-04,2024-01-09,Standard,Dinner Set 72 Pcs,Home & Kitchen,12080,1,0.15,10268,Karachi,Sindh
+PK-100006,2024-01-04,2024-01-04,Same Day,Men's Polo Shirt,Clothing,1870,1,0.0,1870,Sukkur,Sindh
+PK-100007,2024-01-05,2024-01-06,Express,Green Tea Pack,Grocery,820,2,0.1,1476,Rawalpindi,Punjab
+PK-100008,2024-01-06,2024-01-09,Standard,Kids Cotton T-Shirt,Clothing,950,2,0.0,1900,Karachi,Sindh
+PK-100009,2024-01-06,2024-01-11,Standard,Lipstick Set,Beauty & Personal Care,1240,2,0.0,2480,Karachi,Sindh
+PK-100010,2024-01-08,2024-01-09,Same Day,Women's Khussa,Footwear,3450,1,0.05,3278,Peshawar,Khyber Pakhtunkhwa
+PK-100011,2024-01-09,2024-01-12,Standard,Sunblock SPF 50,Beauty & Personal Care,1730,1,0.0,1730,Karachi,Sindh
+PK-100012,2024-01-10,2024-01-17,Economy,Rice Cooker,Home & Kitchen,5360,1,0.2,4288,Lahore,Punjab
+PK-100013,2024-01-11,2024-01-11,Same Day,Peshawari Chappal,Footwear,5290,1,0.0,5290,Karachi,Sindh
+PK-100014,2024-01-12,2024-01-14,Express,Baby Diapers (Pack of 60),Baby & Kids,2270,2,0.1,4086,Islamabad,Islamabad Capital Territory
+PK-100015,2024-01-12,2024-01-15,Standard,Women's Khaddar Shawl,Clothing,4480,1,0.0,4480,Islamabad,Islamabad Capital Territory
+PK-100016,2024-01-14,2024-01-16,Express,Smart Watch,Electronics,9710,1,0.2,7768,Rawalpindi,Punjab
+PK-100017,2024-01-15,2024-01-21,Economy,Perfume for Men 100ml,Beauty & Personal Care,4130,1,0.0,4130,Lahore,Punjab
+PK-100018,2024-01-15,2024-01-20,Standard,School Bag,Books & Stationery,3340,1,0.0,3340,Karachi,Sindh
+PK-100019,2024-01-15,2024-01-18,Standard,Infinix Hot 40,Electronics,28700,1,0.0,28700,Faisalabad,Punjab
+PK-100020,2024-01-16,2024-01-20,Standard,Women's Khussa,Footwear,3750,1,0.05,3562,Lahore,Punjab
+PK-100021,2024-01-17,2024-01-20,Standard,Dates (Ajwa) 1kg,Grocery,3100,4,0.2,9920,Multan,Punjab
+PK-100022,2024-01-18,2024-01-20,Express,Cricket Bat (English Willow),Sports & Outdoors,11430,3,0.2,27432,Karachi,Sindh
+PK-100023,2024-01-19,2024-01-23,Standard,Baby Lotion,Baby & Kids,880,3,0.0,2640,Karachi,Sindh
+PK-100024,2024-01-19,2024-01-21,Express,Electric Kettle,Home & Kitchen,5240,2,0.0,10480,Lahore,Punjab
+PK-100025,2024-01-19,2024-01-22,Standard,Sunblock SPF 50,Beauty & Personal Care,2790,2,0.0,5580,Islamabad,Islamabad Capital Territory
+PK-100026,2024-01-20,2024-01-25,Standard,Kids Cotton T-Shirt,Clothing,1750,2,0.05,3325,Islamabad,Islamabad Capital Territory
+PK-100027,2024-01-20,2024-01-23,Standard,Honey 1kg,Grocery,3360,1,0.05,3192,Gujranwala,Punjab
+PK-100028,2024-01-24,2024-01-30,Economy,Men's Polo Shirt,Clothing,2830,1,0.0,2830,Lahore,Punjab
+PK-100029,2024-01-24,2024-01-25,Express,Lipstick Set,Beauty & Personal Care,1910,2,0.05,3629,Rawalpindi,Punjab
+PK-100030,2024-01-24,2024-01-27,Standard,Bridal Embroidered Dupatta,Clothing,16860,1,0.15,14331,Faisalabad,Punjab
+PK-100031,2024-01-25,2024-01-26,Same Day,Bed Sheet Set (King),Home & Kitchen,5650,1,0.0,5650,Karachi,Sindh
+PK-100032,2024-01-25,2024-01-28,Standard,Lipstick Set,Beauty & Personal Care,1650,3,0.0,4950,Rawalpindi,Punjab
+PK-100033,2024-01-26,2024-01-30,Standard,Non-Stick Cookware Set,Home & Kitchen,10300,1,0.0,10300,Lahore,Punjab
+PK-100034,2024-01-29,2024-02-03,Standard,Dates (Ajwa) 1kg,Grocery,3970,1,0.0,3970,Islamabad,Islamabad Capital Territory
+PK-100035,2024-01-29,2024-02-03,Economy,Bridal Embroidered Dupatta,Clothing,7490,2,0.0,14980,Karachi,Sindh
+PK-100036,2024-01-30,2024-02-01,Express,Face Wash,Beauty & Personal Care,820,1,0.05,779,Quetta,Balochistan
+PK-100037,2024-01-30,2024-01-31,Express,Women's Khaddar Shawl,Clothing,3600,3,0.0,10800,Mardan,Khyber Pakhtunkhwa
+PK-100038,2024-01-31,2024-02-03,Standard,Bridal Embroidered Dupatta,Clothing,16160,1,0.1,14544,Karachi,Sindh
+PK-100039,2024-02-02,2024-02-06,Standard,Men's Sports Shoes,Footwear,5770,3,0.15,14714,Faisalabad,Punjab
+PK-100040,2024-02-02,2024-02-04,Express,Power Bank 20000mAh,Electronics,5960,2,0.15,10132,Hyderabad,Sindh
+PK-100041,2024-02-03,2024-02-07,Standard,"Haier 32"" LED TV",Electronics,49080,1,0.05,46626,Lahore,Punjab
+PK-100042,2024-02-03,2024-02-08,Economy,Sunblock SPF 50,Beauty & Personal Care,2710,1,0.0,2710,Quetta,Balochistan
+PK-100043,2024-02-04,2024-02-05,Same Day,Sunblock SPF 50,Beauty & Personal Care,1470,1,0.0,1470,Multan,Punjab
+PK-100044,2024-02-04,2024-02-07,Standard,Sunblock SPF 50,Beauty & Personal Care,3050,1,0.0,3050,Abbottabad,Khyber Pakhtunkhwa
+PK-100045,2024-02-05,2024-02-06,Express,Samsung Galaxy A15,Electronics,48250,1,0.2,38600,Gwadar,Balochistan
+PK-100046,2024-02-05,2024-02-13,Economy,Women's Khaddar Shawl,Clothing,3410,5,0.2,13640,Karachi,Sindh
+PK-100047,2024-02-06,2024-02-09,Standard,Men's Lawn Kurta,Clothing,3000,1,0.0,3000,Islamabad,Islamabad Capital Territory
+PK-100048,2024-02-06,2024-02-07,Express,Yoga Mat,Sports & Outdoors,2040,3,0.0,6120,Rawalpindi,Punjab
+PK-100049,2024-02-08,2024-02-14,Economy,Basmati Rice 5kg,Grocery,2030,1,0.05,1928,Karachi,Sindh
+PK-100050,2024-02-09,2024-02-12,Standard,Women's 3-Piece Lawn Suit,Clothing,7810,5,0.0,39050,Lahore,Punjab
+PK-100051,2024-02-09,2024-02-17,Economy,Sunblock SPF 50,Beauty & Personal Care,3100,1,0.2,2480,Gwadar,Balochistan
+PK-100052,2024-02-09,2024-02-13,Standard,Power Bank 20000mAh,Electronics,5510,1,0.0,5510,Karachi,Sindh
+PK-100053,2024-02-09,2024-02-11,Express,Men's Shalwar Kameez,Clothing,5460,1,0.0,5460,Islamabad,Islamabad Capital Territory
+PK-100054,2024-02-10,2024-02-10,Same Day,Power Bank 20000mAh,Electronics,4850,1,0.0,4850,Gujranwala,Punjab
+PK-100055,2024-02-10,2024-02-12,Express,Men's Shalwar Kameez,Clothing,6730,3,0.0,20190,Lahore,Punjab
+PK-100056,2024-02-10,2024-02-15,Standard,Sunblock SPF 50,Beauty & Personal Care,2900,1,0.0,2900,Islamabad,Islamabad Capital Territory
+PK-100057,2024-02-11,2024-02-12,Express,Green Tea Pack,Grocery,670,1,0.1,603,Sargodha,Punjab
+PK-100058,2024-02-11,2024-02-16,Standard,Men's Lawn Kurta,Clothing,5350,1,0.0,5350,Islamabad,Islamabad Capital Territory
+PK-100059,2024-02-12,2024-02-17,Standard,Electric Kettle,Home & Kitchen,3870,2,0.05,7353,Karachi,Sindh
+PK-100060,2024-02-13,2024-02-17,Standard,Hair Dryer,Beauty & Personal Care,5760,1,0.0,5760,Karachi,Sindh
+PK-100061,2024-02-14,2024-02-15,Express,Baby Diapers (Pack of 60),Baby & Kids,3750,1,0.0,3750,Mardan,Khyber Pakhtunkhwa
+PK-100062,2024-02-14,2024-02-18,Standard,Rice Cooker,Home & Kitchen,8020,1,0.0,8020,Lahore,Punjab
+PK-100063,2024-02-16,2024-02-21,Standard,Women's 3-Piece Lawn Suit,Clothing,4470,1,0.0,4470,Rawalpindi,Punjab
+PK-100064,2024-02-16,2024-02-22,Economy,Dinner Set 72 Pcs,Home & Kitchen,12480,1,0.0,12480,Karachi,Sindh
+PK-100065,2024-02-16,2024-02-19,Standard,Kids Cotton T-Shirt,Clothing,920,4,0.0,3680,Islamabad,Islamabad Capital Territory
+PK-100066,2024-02-18,2024-02-22,Standard,Baby Stroller,Baby & Kids,16790,1,0.1,15111,Abbottabad,Khyber Pakhtunkhwa
+PK-100067,2024-02-21,2024-02-26,Standard,Bridal Embroidered Dupatta,Clothing,9380,2,0.1,16884,Rawalpindi,Punjab
+PK-100068,2024-02-22,2024-02-25,Standard,Perfume for Men 100ml,Beauty & Personal Care,7020,1,0.15,5967,Sargodha,Punjab
+PK-100069,2024-02-23,2024-02-24,Express,Samsung Galaxy A15,Electronics,53830,1,0.0,53830,Lahore,Punjab
+PK-100070,2024-02-23,2024-02-26,Standard,Bridal Embroidered Dupatta,Clothing,8170,1,0.1,7353,Rawalpindi,Punjab
+PK-100071,2024-02-27,2024-03-03,Standard,Olive Oil 1L,Grocery,2470,1,0.05,2346,Sialkot,Punjab
+PK-100072,2024-02-27,2024-03-06,Economy,Rice Cooker,Home & Kitchen,7740,1,0.0,7740,Islamabad,Islamabad Capital Territory
+PK-100073,2024-03-03,2024-03-11,Economy,Men's Sports Shoes,Footwear,6020,1,0.0,6020,Lahore,Punjab
+PK-100074,2024-03-05,2024-03-06,Express,Honey 1kg,Grocery,2220,1,0.05,2109,Sialkot,Punjab
+PK-100075,2024-03-07,2024-03-12,Economy,Basmati Rice 5kg,Grocery,1730,5,0.1,7785,Lahore,Punjab
+PK-100076,2024-03-08,2024-03-14,Economy,Kids Cotton T-Shirt,Clothing,1210,1,0.0,1210,Rawalpindi,Punjab
+PK-100077,2024-03-08,2024-03-13,Standard,Electric Kettle,Home & Kitchen,4550,1,0.0,4550,Sargodha,Punjab
+PK-100078,2024-03-08,2024-03-09,Express,Kids School Shoes,Footwear,3260,1,0.2,2608,Karachi,Sindh
+PK-100079,2024-03-09,2024-03-10,Express,Dinner Set 72 Pcs,Home & Kitchen,8830,1,0.0,8830,Lahore,Punjab
+PK-100080,2024-03-09,2024-03-14,Standard,Women's Khaddar Shawl,Clothing,4080,2,0.15,6936,Karachi,Sindh
+PK-100081,2024-03-11,2024-03-15,Standard,Women's 3-Piece Lawn Suit,Clothing,5720,1,0.1,5148,Islamabad,Islamabad Capital Territory
+PK-100082,2024-03-11,2024-03-14,Standard,Green Tea Pack,Grocery,660,2,0.1,1188,Lahore,Punjab
+PK-100083,2024-03-13,2024-03-14,Express,Green Tea Pack,Grocery,1000,1,0.1,900,Peshawar,Khyber Pakhtunkhwa
+PK-100084,2024-03-13,2024-03-13,Same Day,School Bag,Books & Stationery,2850,1,0.0,2850,Karachi,Sindh
+PK-100085,2024-03-14,2024-03-15,Same Day,Baby Stroller,Baby & Kids,14170,4,0.05,53846,Multan,Punjab
+PK-100086,2024-03-16,2024-03-21,Standard,Cricket Bat (English Willow),Sports & Outdoors,30040,1,0.1,27036,Lahore,Punjab
+PK-100087,2024-03-16,2024-03-21,Standard,Badminton Racket Pair,Sports & Outdoors,5060,2,0.1,9108,Lahore,Punjab
+PK-100088,2024-03-16,2024-03-20,Standard,Badminton Racket Pair,Sports & Outdoors,5470,1,0.0,5470,Lahore,Punjab
+PK-100089,2024-03-17,2024-03-18,Express,Peshawari Chappal,Footwear,2720,4,0.0,10880,Peshawar,Khyber Pakhtunkhwa
+PK-100090,2024-03-17,2024-03-25,Economy,Women's Khussa,Footwear,2280,1,0.0,2280,Islamabad,Islamabad Capital Territory
+PK-100091,2024-03-18,2024-03-26,Economy,Women's 3-Piece Lawn Suit,Clothing,4110,1,0.0,4110,Lahore,Punjab
+PK-100092,2024-03-18,2024-03-23,Economy,Face Wash,Beauty & Personal Care,1180,2,0.05,2242,Sialkot,Punjab
+PK-100093,2024-03-20,2024-03-27,Economy,Men's Shalwar Kameez,Clothing,6760,1,0.1,6084,Faisalabad,Punjab
+PK-100094,2024-03-20,2024-03-27,Economy,Men's Shalwar Kameez,Clothing,3840,1,0.1,3456,Lahore,Punjab
+PK-100095,2024-03-21,2024-03-24,Standard,Air Fryer,Home & Kitchen,13850,5,0.05,65788,Bahawalpur,Punjab
+PK-100096,2024-03-21,2024-03-26,Standard,Bridal Embroidered Dupatta,Clothing,9880,1,0.0,9880,Lahore,Punjab
+PK-100097,2024-03-22,2024-03-25,Standard,Men's Lawn Kurta,Clothing,4150,2,0.0,8300,Karachi,Sindh
+PK-100098,2024-03-22,2024-03-26,Standard,O-Level Textbook,Books & Stationery,3370,2,0.0,6740,Rawalpindi,Punjab
+PK-100099,2024-03-23,2024-03-27,Standard,Basmati Rice 5kg,Grocery,2320,3,0.0,6960,Karachi,Sindh
+PK-100100,2024-03-24,2024-03-29,Standard,Smart Watch,Electronics,13100,3,0.0,39300,Lahore,Punjab
+PK-100101,2024-03-25,2024-04-02,Economy,Samsung Galaxy A15,Electronics,45840,1,0.0,45840,Hyderabad,Sindh
+PK-100102,2024-03-25,2024-03-29,Standard,Women's Khaddar Shawl,Clothing,4810,1,0.0,4810,Karachi,Sindh
+PK-100103,2024-03-25,2024-03-31,Economy,Urdu Novel,Books & Stationery,1270,1,0.05,1206,Quetta,Balochistan
+PK-100104,2024-03-26,2024-03-27,Same Day,School Bag,Books & Stationery,2840,2,0.0,5680,Abbottabad,Khyber Pakhtunkhwa
+PK-100105,2024-03-26,2024-03-28,Express,Power Bank 20000mAh,Electronics,6220,3,0.0,18660,Faisalabad,Punjab
+PK-100106,2024-03-27,2024-03-29,Express,Yoga Mat,Sports & Outdoors,1630,1,0.0,1630,Peshawar,Khyber Pakhtunkhwa
+PK-100107,2024-03-28,2024-04-02,Standard,Wireless Earbuds,Electronics,6060,1,0.05,5757,Peshawar,Khyber Pakhtunkhwa
+PK-100108,2024-03-28,2024-03-30,Express,Men's Polo Shirt,Clothing,2960,1,0.05,2812,Gilgit,Gilgit-Baltistan
+PK-100109,2024-03-28,2024-04-02,Standard,Baby Lotion,Baby & Kids,1420,1,0.0,1420,Lahore,Punjab
+PK-100110,2024-03-29,2024-04-06,Economy,Men's Lawn Kurta,Clothing,3910,3,0.0,11730,Karachi,Sindh
+PK-100111,2024-03-29,2024-04-01,Standard,Bluetooth Speaker,Electronics,4790,1,0.15,4072,Rawalpindi,Punjab
+PK-100112,2024-03-29,2024-04-02,Standard,Bridal Embroidered Dupatta,Clothing,15930,2,0.05,30267,Rawalpindi,Punjab
+PK-100113,2024-03-30,2024-03-31,Express,Dinner Set 72 Pcs,Home & Kitchen,14050,2,0.05,26695,Karachi,Sindh
+PK-100114,2024-03-31,2024-04-02,Express,Honey 1kg,Grocery,3000,4,0.05,11400,Faisalabad,Punjab
+PK-100115,2024-04-01,2024-04-05,Standard,Baby Stroller,Baby & Kids,16560,1,0.1,14904,Karachi,Sindh
+PK-100116,2024-04-02,2024-04-03,Express,Xiaomi Redmi Note 13,Electronics,51750,1,0.15,43988,Abbottabad,Khyber Pakhtunkhwa
+PK-100117,2024-04-02,2024-04-07,Standard,Power Bank 20000mAh,Electronics,5270,2,0.0,10540,Lahore,Punjab
+PK-100118,2024-04-03,2024-04-05,Express,Dumbbell Set 20kg,Sports & Outdoors,10260,2,0.05,19494,Karachi,Sindh
+PK-100119,2024-04-04,2024-04-08,Standard,Men's Shalwar Kameez,Clothing,4430,1,0.0,4430,Karachi,Sindh
+PK-100120,2024-04-04,2024-04-09,Standard,Olive Oil 1L,Grocery,2620,1,0.05,2489,Lahore,Punjab
+PK-100121,2024-04-05,2024-04-08,Standard,Sunblock SPF 50,Beauty & Personal Care,3100,2,0.0,6200,Lahore,Punjab
+PK-100122,2024-04-05,2024-04-09,Standard,Wireless Earbuds,Electronics,6490,1,0.0,6490,Karachi,Sindh
+PK-100123,2024-04-05,2024-04-08,Standard,Notebook Pack (6 pcs),Books & Stationery,1680,1,0.15,1428,Lahore,Punjab
+PK-100124,2024-04-06,2024-04-09,Standard,Smart Watch,Electronics,8160,1,0.15,6936,Karachi,Sindh
+PK-100125,2024-04-06,2024-04-09,Standard,Bridal Embroidered Dupatta,Clothing,17960,1,0.0,17960,Lahore,Punjab
+PK-100126,2024-04-06,2024-04-10,Standard,Bed Sheet Set (King),Home & Kitchen,3930,1,0.15,3340,Lahore,Punjab
+PK-100127,2024-04-06,2024-04-08,Express,Kids School Shoes,Footwear,3140,1,0.1,2826,Lahore,Punjab
+PK-100128,2024-04-07,2024-04-12,Standard,Perfume for Men 100ml,Beauty & Personal Care,5620,1,0.0,5620,Lahore,Punjab
+PK-100129,2024-04-07,2024-04-08,Express,Face Wash,Beauty & Personal Care,1210,4,0.15,4114,Karachi,Sindh
+PK-100130,2024-04-07,2024-04-15,Economy,Baby Lotion,Baby & Kids,1420,5,0.1,6390,Karachi,Sindh
+PK-100131,2024-04-07,2024-04-11,Standard,Baby Lotion,Baby & Kids,1260,1,0.1,1134,Lahore,Punjab
+PK-100132,2024-04-08,2024-04-13,Economy,Non-Stick Cookware Set,Home & Kitchen,10200,1,0.2,8160,Hyderabad,Sindh
+PK-100133,2024-04-08,2024-04-11,Standard,Wireless Earbuds,Electronics,4640,1,0.2,3712,Gilgit,Gilgit-Baltistan
+PK-100134,2024-04-08,2024-04-11,Standard,Lipstick Set,Beauty & Personal Care,1970,1,0.1,1773,Abbottabad,Khyber Pakhtunkhwa
+PK-100135,2024-04-09,2024-04-10,Express,Baby Stroller,Baby & Kids,13850,3,0.15,35318,Rawalpindi,Punjab
+PK-100136,2024-04-09,2024-04-09,Same Day,Kids Cotton T-Shirt,Clothing,820,1,0.1,738,Rawalpindi,Punjab
+PK-100137,2024-04-10,2024-04-18,Economy,Women's Khussa,Footwear,3160,1,0.3,2212,Lahore,Punjab
+PK-100138,2024-04-10,2024-04-13,Standard,Bridal Embroidered Dupatta,Clothing,16270,1,0.1,14643,Hyderabad,Sindh
+PK-100139,2024-04-10,2024-04-10,Same Day,Xiaomi Redmi Note 13,Electronics,57930,1,0.1,52137,Hyderabad,Sindh
+PK-100140,2024-04-10,2024-04-15,Standard,Sunblock SPF 50,Beauty & Personal Care,2790,3,0.15,7114,Gujranwala,Punjab
+PK-100141,2024-04-10,2024-04-13,Standard,Women's Khaddar Shawl,Clothing,3870,2,0.1,6966,Sukkur,Sindh
+PK-100142,2024-04-11,2024-04-15,Standard,Dumbbell Set 20kg,Sports & Outdoors,8410,1,0.1,7569,Islamabad,Islamabad Capital Territory
+PK-100143,2024-04-11,2024-04-16,Economy,Notebook Pack (6 pcs),Books & Stationery,740,1,0.0,740,Hyderabad,Sindh
+PK-100144,2024-04-12,2024-04-16,Standard,O-Level Textbook,Books & Stationery,2650,4,0.2,8480,Quetta,Balochistan
+PK-100145,2024-04-12,2024-04-20,Economy,Bridal Embroidered Dupatta,Clothing,11690,1,0.2,9352,Lahore,Punjab
+PK-100146,2024-04-12,2024-04-13,Express,Kids Cotton T-Shirt,Clothing,1060,3,0.2,2544,Abbottabad,Khyber Pakhtunkhwa
+PK-100147,2024-04-13,2024-04-14,Express,Cricket Bat (English Willow),Sports & Outdoors,7300,3,0.0,21900,Karachi,Sindh
+PK-100148,2024-04-13,2024-04-14,Express,Urdu Novel,Books & Stationery,1430,1,0.1,1287,Gilgit,Gilgit-Baltistan
+PK-100149,2024-04-14,2024-04-22,Economy,Kids School Shoes,Footwear,2960,3,0.1,7992,Hyderabad,Sindh
+PK-100150,2024-04-15,2024-04-20,Standard,Dates (Ajwa) 1kg,Grocery,3620,1,0.05,3439,Karachi,Sindh
+PK-100151,2024-04-15,2024-04-18,Standard,Bluetooth Speaker,Electronics,4350,2,0.05,8265,Multan,Punjab
+PK-100152,2024-04-15,2024-04-16,Express,Olive Oil 1L,Grocery,2710,1,0.1,2439,Karachi,Sindh
+PK-100153,2024-04-15,2024-04-20,Standard,Wireless Earbuds,Electronics,4690,1,0.2,3752,Hyderabad,Sindh
+PK-100154,2024-04-15,2024-04-18,Standard,Bluetooth Speaker,Electronics,5740,1,0.05,5453,Quetta,Balochistan
+PK-100155,2024-04-16,2024-04-21,Standard,Electric Kettle,Home & Kitchen,4370,1,0.1,3933,Faisalabad,Punjab
+PK-100156,2024-04-17,2024-04-20,Standard,Xiaomi Redmi Note 13,Electronics,48090,1,0.1,43281,Sialkot,Punjab
+PK-100157,2024-04-18,2024-04-22,Standard,Xiaomi Redmi Note 13,Electronics,60710,1,0.1,54639,Karachi,Sindh
+PK-100158,2024-04-18,2024-04-23,Standard,Samsung Galaxy A15,Electronics,42920,1,0.15,36482,Lahore,Punjab
+PK-100159,2024-04-18,2024-04-25,Economy,Men's Sports Shoes,Footwear,6210,1,0.0,6210,Islamabad,Islamabad Capital Territory
+PK-100160,2024-04-19,2024-04-24,Standard,Yoga Mat,Sports & Outdoors,1900,1,0.0,1900,Karachi,Sindh
+PK-100161,2024-04-19,2024-04-26,Economy,Infinix Hot 40,Electronics,32190,1,0.05,30580,Islamabad,Islamabad Capital Territory
+PK-100162,2024-04-20,2024-04-25,Economy,Face Wash,Beauty & Personal Care,720,4,0.0,2880,Lahore,Punjab
+PK-100163,2024-04-21,2024-04-26,Standard,Notebook Pack (6 pcs),Books & Stationery,1650,1,0.05,1568,Islamabad,Islamabad Capital Territory
+PK-100164,2024-04-22,2024-04-24,Express,Smart Watch,Electronics,8270,1,0.1,7443,Islamabad,Islamabad Capital Territory
+PK-100165,2024-04-23,2024-04-24,Express,Bluetooth Speaker,Electronics,6760,2,0.15,11492,Sialkot,Punjab
+PK-100166,2024-04-23,2024-04-24,Express,Basmati Rice 5kg,Grocery,1920,2,0.0,3840,Lahore,Punjab
+PK-100167,2024-04-24,2024-04-28,Standard,Notebook Pack (6 pcs),Books & Stationery,720,1,0.1,648,Sukkur,Sindh
+PK-100168,2024-04-25,2024-04-29,Standard,Electric Kettle,Home & Kitchen,3890,2,0.0,7780,Islamabad,Islamabad Capital Territory
+PK-100169,2024-04-25,2024-04-30,Standard,O-Level Textbook,Books & Stationery,3110,1,0.05,2954,Lahore,Punjab
+PK-100170,2024-04-26,2024-04-27,Express,"Haier 32"" LED TV",Electronics,49350,1,0.0,49350,Rawalpindi,Punjab
+PK-100171,2024-04-26,2024-05-03,Economy,Bridal Embroidered Dupatta,Clothing,17540,2,0.05,33326,Islamabad,Islamabad Capital Territory
+PK-100172,2024-04-26,2024-04-28,Express,Lipstick Set,Beauty & Personal Care,2380,2,0.05,4522,Lahore,Punjab
+PK-100173,2024-04-27,2024-04-29,Express,Men's Shalwar Kameez,Clothing,7480,3,0.1,20196,Rawalpindi,Punjab
+PK-100174,2024-04-27,2024-05-05,Economy,Football (Size 5),Sports & Outdoors,2390,1,0.05,2270,Karachi,Sindh
+PK-100175,2024-04-27,2024-04-28,Express,Kids School Shoes,Footwear,3740,1,0.0,3740,Lahore,Punjab
+PK-100176,2024-04-29,2024-05-02,Standard,Football (Size 5),Sports & Outdoors,3170,1,0.0,3170,Faisalabad,Punjab
+PK-100177,2024-05-01,2024-05-08,Economy,Women's Khussa,Footwear,3450,1,0.0,3450,Islamabad,Islamabad Capital Territory
+PK-100178,2024-05-02,2024-05-06,Standard,Men's Polo Shirt,Clothing,3470,1,0.2,2776,Gujranwala,Punjab
+PK-100179,2024-05-02,2024-05-05,Standard,Men's Lawn Kurta,Clothing,4360,1,0.15,3706,Lahore,Punjab
+PK-100180,2024-05-03,2024-05-04,Express,Men's Lawn Kurta,Clothing,5170,1,0.0,5170,Sargodha,Punjab
+PK-100181,2024-05-03,2024-05-08,Economy,Football (Size 5),Sports & Outdoors,3680,2,0.0,7360,Quetta,Balochistan
+PK-100182,2024-05-04,2024-05-08,Standard,Power Bank 20000mAh,Electronics,3880,1,0.0,3880,Sargodha,Punjab
+PK-100183,2024-05-04,2024-05-09,Standard,"Haier 32"" LED TV",Electronics,53190,1,0.05,50530,Gujranwala,Punjab
+PK-100184,2024-05-05,2024-05-08,Standard,Smart Watch,Electronics,9100,2,0.0,18200,Karachi,Sindh
+PK-100185,2024-05-05,2024-05-08,Standard,Smart Watch,Electronics,13230,1,0.0,13230,Rawalpindi,Punjab
+PK-100186,2024-05-06,2024-05-09,Standard,Notebook Pack (6 pcs),Books & Stationery,1590,3,0.0,4770,Karachi,Sindh
+PK-100187,2024-05-06,2024-05-08,Express,Bridal Embroidered Dupatta,Clothing,7250,1,0.0,7250,Gujranwala,Punjab
+PK-100188,2024-05-06,2024-05-14,Economy,Baby Lotion,Baby & Kids,720,1,0.0,720,Faisalabad,Punjab
+PK-100189,2024-05-07,2024-05-11,Standard,Power Bank 20000mAh,Electronics,3710,3,0.0,11130,Lahore,Punjab
+PK-100190,2024-05-10,2024-05-13,Standard,Face Wash,Beauty & Personal Care,920,1,0.05,874,Abbottabad,Khyber Pakhtunkhwa
+PK-100191,2024-05-10,2024-05-13,Standard,Women's Khussa,Footwear,2020,2,0.05,3838,Karachi,Sindh
+PK-100192,2024-05-12,2024-05-17,Standard,Men's Polo Shirt,Clothing,2950,2,0.0,5900,Faisalabad,Punjab
+PK-100193,2024-05-12,2024-05-13,Express,Olive Oil 1L,Grocery,2740,1,0.05,2603,Peshawar,Khyber Pakhtunkhwa
+PK-100194,2024-05-12,2024-05-13,Express,Baby Stroller,Baby & Kids,17280,2,0.0,34560,Karachi,Sindh
+PK-100195,2024-05-13,2024-05-15,Express,Olive Oil 1L,Grocery,2280,3,0.1,6156,Faisalabad,Punjab
+PK-100196,2024-05-15,2024-05-19,Standard,Men's Lawn Kurta,Clothing,3910,5,0.15,16618,Gujranwala,Punjab
+PK-100197,2024-05-15,2024-05-16,Express,Men's Lawn Kurta,Clothing,2590,1,0.0,2590,Karachi,Sindh
+PK-100198,2024-05-16,2024-05-20,Standard,Sunblock SPF 50,Beauty & Personal Care,2970,1,0.15,2524,Rawalpindi,Punjab
+PK-100199,2024-05-17,2024-05-20,Standard,Men's Shalwar Kameez,Clothing,3790,2,0.1,6822,Lahore,Punjab
+PK-100200,2024-05-17,2024-05-25,Economy,Lipstick Set,Beauty & Personal Care,1110,1,0.05,1054,Multan,Punjab
+PK-100201,2024-05-18,2024-05-19,Same Day,Bed Sheet Set (King),Home & Kitchen,4180,1,0.0,4180,Karachi,Sindh
+PK-100202,2024-05-18,2024-05-23,Economy,Bed Sheet Set (King),Home & Kitchen,7070,1,0.0,7070,Abbottabad,Khyber Pakhtunkhwa
+PK-100203,2024-05-20,2024-05-27,Economy,Notebook Pack (6 pcs),Books & Stationery,820,1,0.0,820,Sukkur,Sindh
+PK-100204,2024-05-21,2024-05-22,Express,Hair Dryer,Beauty & Personal Care,5070,1,0.2,4056,Karachi,Sindh
+PK-100205,2024-05-22,2024-05-28,Economy,Infinix Hot 40,Electronics,33970,1,0.05,32272,Lahore,Punjab
+PK-100206,2024-05-23,2024-05-28,Standard,Xiaomi Redmi Note 13,Electronics,58520,1,0.0,58520,Faisalabad,Punjab
+PK-100207,2024-05-23,2024-05-26,Standard,Rice Cooker,Home & Kitchen,5450,1,0.05,5178,Peshawar,Khyber Pakhtunkhwa
+PK-100208,2024-05-24,2024-05-29,Standard,Kids School Shoes,Footwear,2140,4,0.0,8560,Islamabad,Islamabad Capital Territory
+PK-100209,2024-05-25,2024-05-28,Standard,Men's Shalwar Kameez,Clothing,5020,1,0.0,5020,Karachi,Sindh
+PK-100210,2024-05-27,2024-06-01,Standard,Bridal Embroidered Dupatta,Clothing,8430,1,0.05,8008,Karachi,Sindh
+PK-100211,2024-05-28,2024-06-01,Standard,Football (Size 5),Sports & Outdoors,3600,1,0.05,3420,Gilgit,Gilgit-Baltistan
+PK-100212,2024-05-29,2024-05-30,Express,Notebook Pack (6 pcs),Books & Stationery,1090,1,0.1,981,Islamabad,Islamabad Capital Territory
+PK-100213,2024-05-30,2024-05-31,Same Day,Bed Sheet Set (King),Home & Kitchen,5360,5,0.05,25460,Sialkot,Punjab
+PK-100214,2024-05-31,2024-06-01,Express,Men's Polo Shirt,Clothing,1730,4,0.05,6574,Rawalpindi,Punjab
+PK-100215,2024-06-01,2024-06-06,Standard,Men's Shalwar Kameez,Clothing,5550,1,0.1,4995,Abbottabad,Khyber Pakhtunkhwa
+PK-100216,2024-06-02,2024-06-04,Express,Non-Stick Cookware Set,Home & Kitchen,6890,1,0.0,6890,Karachi,Sindh
+PK-100217,2024-06-02,2024-06-05,Standard,Kids Cotton T-Shirt,Clothing,1480,1,0.05,1406,Karachi,Sindh
+PK-100218,2024-06-02,2024-06-06,Standard,Bed Sheet Set (King),Home & Kitchen,3540,1,0.1,3186,Abbottabad,Khyber Pakhtunkhwa
+PK-100219,2024-06-04,2024-06-08,Standard,Perfume for Men 100ml,Beauty & Personal Care,8840,1,0.0,8840,Mardan,Khyber Pakhtunkhwa
+PK-100220,2024-06-04,2024-06-08,Standard,Xiaomi Redmi Note 13,Electronics,57580,1,0.0,57580,Lahore,Punjab
+PK-100221,2024-06-04,2024-06-08,Standard,Samsung Galaxy A15,Electronics,44360,1,0.0,44360,Lahore,Punjab
+PK-100222,2024-06-04,2024-06-10,Economy,Men's Lawn Kurta,Clothing,2250,1,0.0,2250,Islamabad,Islamabad Capital Territory
+PK-100223,2024-06-04,2024-06-05,Same Day,Dates (Ajwa) 1kg,Grocery,3400,1,0.05,3230,Islamabad,Islamabad Capital Territory
+PK-100224,2024-06-06,2024-06-07,Express,Face Wash,Beauty & Personal Care,600,1,0.0,600,Karachi,Sindh
+PK-100225,2024-06-08,2024-06-13,Standard,Smart Watch,Electronics,6570,1,0.05,6242,Sukkur,Sindh
+PK-100226,2024-06-08,2024-06-16,Economy,Olive Oil 1L,Grocery,3280,1,0.0,3280,Lahore,Punjab
+PK-100227,2024-06-08,2024-06-09,Express,Peshawari Chappal,Footwear,4310,1,0.0,4310,Peshawar,Khyber Pakhtunkhwa
+PK-100228,2024-06-10,2024-06-15,Standard,Peshawari Chappal,Footwear,3030,1,0.0,3030,Karachi,Sindh
+PK-100229,2024-06-12,2024-06-14,Express,Honey 1kg,Grocery,3140,1,0.0,3140,Karachi,Sindh
+PK-100230,2024-06-12,2024-06-15,Standard,Xiaomi Redmi Note 13,Electronics,51580,1,0.2,41264,Multan,Punjab
+PK-100231,2024-06-13,2024-06-18,Standard,Men's Lawn Kurta,Clothing,5420,3,0.3,11382,Lahore,Punjab
+PK-100232,2024-06-14,2024-06-19,Standard,Air Fryer,Home & Kitchen,11430,4,0.15,38862,Multan,Punjab
+PK-100233,2024-06-15,2024-06-16,Express,Men's Lawn Kurta,Clothing,4620,1,0.25,3465,Karachi,Sindh
+PK-100234,2024-06-19,2024-06-23,Standard,Perfume for Men 100ml,Beauty & Personal Care,7520,1,0.1,6768,Mardan,Khyber Pakhtunkhwa
+PK-100235,2024-06-19,2024-06-24,Standard,Men's Lawn Kurta,Clothing,2420,2,0.15,4114,Hyderabad,Sindh
+PK-100236,2024-06-19,2024-06-23,Standard,Wireless Earbuds,Electronics,3360,2,0.0,6720,Sialkot,Punjab
+PK-100237,2024-06-20,2024-06-25,Economy,Men's Lawn Kurta,Clothing,3470,1,0.0,3470,Karachi,Sindh
+PK-100238,2024-06-21,2024-06-25,Standard,Bridal Embroidered Dupatta,Clothing,16420,1,0.05,15599,Lahore,Punjab
+PK-100239,2024-06-22,2024-06-26,Standard,Smart Watch,Electronics,9600,1,0.0,9600,Lahore,Punjab
+PK-100240,2024-06-23,2024-06-28,Standard,Power Bank 20000mAh,Electronics,5470,1,0.1,4923,Rawalpindi,Punjab
+PK-100241,2024-06-24,2024-06-30,Economy,Basmati Rice 5kg,Grocery,2400,1,0.05,2280,Lahore,Punjab
+PK-100242,2024-06-24,2024-06-25,Express,Kids Cotton T-Shirt,Clothing,1630,1,0.0,1630,Karachi,Sindh
+PK-100243,2024-06-24,2024-07-02,Economy,Men's Polo Shirt,Clothing,2450,1,0.1,2205,Lahore,Punjab
+PK-100244,2024-06-25,2024-06-29,Standard,Xiaomi Redmi Note 13,Electronics,55120,1,0.1,49608,Lahore,Punjab
+PK-100245,2024-06-25,2024-06-30,Standard,Women's Khaddar Shawl,Clothing,5010,1,0.0,5010,Lahore,Punjab
+PK-100246,2024-06-26,2024-06-28,Express,Men's Shalwar Kameez,Clothing,4190,2,0.2,6704,Karachi,Sindh
+PK-100247,2024-06-27,2024-07-02,Standard,Rice Cooker,Home & Kitchen,8770,1,0.1,7893,Lahore,Punjab
+PK-100248,2024-06-27,2024-07-02,Economy,Men's Lawn Kurta,Clothing,2270,1,0.0,2270,Faisalabad,Punjab
+PK-100249,2024-06-28,2024-07-06,Economy,Olive Oil 1L,Grocery,2130,1,0.1,1917,Lahore,Punjab
+PK-100250,2024-06-28,2024-07-03,Standard,Honey 1kg,Grocery,3720,3,0.05,10602,Lahore,Punjab
+PK-100251,2024-06-30,2024-07-05,Economy,Wireless Earbuds,Electronics,4200,1,0.05,3990,Rawalpindi,Punjab
+PK-100252,2024-06-30,2024-07-01,Express,Wireless Earbuds,Electronics,3250,1,0.05,3088,Hyderabad,Sindh
+PK-100253,2024-07-01,2024-07-05,Standard,Wireless Earbuds,Electronics,3430,1,0.1,3087,Lahore,Punjab
+PK-100254,2024-07-01,2024-07-05,Standard,Dinner Set 72 Pcs,Home & Kitchen,12010,3,0.05,34228,Faisalabad,Punjab
+PK-100255,2024-07-02,2024-07-07,Standard,Power Bank 20000mAh,Electronics,6040,2,0.05,11476,Sargodha,Punjab
+PK-100256,2024-07-02,2024-07-09,Economy,School Bag,Books & Stationery,2040,3,0.0,6120,Rawalpindi,Punjab
+PK-100257,2024-07-02,2024-07-05,Standard,Football (Size 5),Sports & Outdoors,1590,2,0.0,3180,Bahawalpur,Punjab
+PK-100258,2024-07-03,2024-07-07,Standard,O-Level Textbook,Books & Stationery,2900,1,0.15,2465,Quetta,Balochistan
+PK-100259,2024-07-04,2024-07-06,Express,Electric Kettle,Home & Kitchen,5380,1,0.1,4842,Karachi,Sindh
+PK-100260,2024-07-04,2024-07-08,Standard,Baby Lotion,Baby & Kids,850,1,0.0,850,Islamabad,Islamabad Capital Territory
+PK-100261,2024-07-06,2024-07-11,Standard,Infinix Hot 40,Electronics,35670,1,0.15,30320,Peshawar,Khyber Pakhtunkhwa
+PK-100262,2024-07-06,2024-07-08,Express,Bridal Embroidered Dupatta,Clothing,16650,2,0.1,29970,Gwadar,Balochistan
+PK-100263,2024-07-07,2024-07-12,Standard,Kids Cotton T-Shirt,Clothing,1080,1,0.05,1026,Islamabad,Islamabad Capital Territory
+PK-100264,2024-07-10,2024-07-15,Standard,Honey 1kg,Grocery,3760,3,0.0,11280,Karachi,Sindh
+PK-100265,2024-07-10,2024-07-13,Standard,Air Fryer,Home & Kitchen,19920,1,0.05,18924,Faisalabad,Punjab
+PK-100266,2024-07-10,2024-07-15,Standard,Urdu Novel,Books & Stationery,1210,1,0.0,1210,Karachi,Sindh
+PK-100267,2024-07-10,2024-07-13,Standard,Smart Watch,Electronics,8520,1,0.0,8520,Hyderabad,Sindh
+PK-100268,2024-07-10,2024-07-11,Same Day,Baby Stroller,Baby & Kids,17060,3,0.05,48621,Rawalpindi,Punjab
+PK-100269,2024-07-11,2024-07-19,Economy,Kids School Shoes,Footwear,3740,4,0.15,12716,Peshawar,Khyber Pakhtunkhwa
+PK-100270,2024-07-12,2024-07-15,Standard,Kids School Shoes,Footwear,3670,1,0.0,3670,Sialkot,Punjab
+PK-100271,2024-07-15,2024-07-20,Economy,Kids Toy Car Set,Baby & Kids,3200,4,0.1,11520,Faisalabad,Punjab
+PK-100272,2024-07-16,2024-07-17,Express,Men's Polo Shirt,Clothing,2460,3,0.15,6273,Faisalabad,Punjab
+PK-100273,2024-07-18,2024-07-19,Express,Bridal Embroidered Dupatta,Clothing,15680,3,0.0,47040,Hyderabad,Sindh
+PK-100274,2024-07-19,2024-07-21,Express,Air Fryer,Home & Kitchen,22210,1,0.0,22210,Gujranwala,Punjab
+PK-100275,2024-07-20,2024-07-21,Express,Power Bank 20000mAh,Electronics,4130,1,0.1,3717,Sialkot,Punjab
+PK-100276,2024-07-21,2024-07-26,Economy,Kids Cotton T-Shirt,Clothing,840,2,0.1,1512,Karachi,Sindh
+PK-100277,2024-07-21,2024-07-25,Standard,Men's Lawn Kurta,Clothing,3540,1,0.0,3540,Rawalpindi,Punjab
+PK-100278,2024-07-24,2024-07-26,Express,Wireless Earbuds,Electronics,6780,2,0.05,12882,Lahore,Punjab
+PK-100279,2024-07-24,2024-07-27,Standard,Basmati Rice 5kg,Grocery,1960,1,0.05,1862,Sialkot,Punjab
+PK-100280,2024-07-25,2024-07-28,Standard,Air Fryer,Home & Kitchen,20100,1,0.1,18090,Multan,Punjab
+PK-100281,2024-07-26,2024-07-27,Express,Women's Khaddar Shawl,Clothing,2530,4,0.1,9108,Islamabad,Islamabad Capital Territory
+PK-100282,2024-07-28,2024-07-31,Standard,Bridal Embroidered Dupatta,Clothing,10260,1,0.0,10260,Karachi,Sindh
+PK-100283,2024-07-30,2024-08-02,Standard,Men's Sports Shoes,Footwear,7190,5,0.0,35950,Lahore,Punjab
+PK-100284,2024-07-30,2024-08-02,Standard,Face Wash,Beauty & Personal Care,570,1,0.0,570,Peshawar,Khyber Pakhtunkhwa
+PK-100285,2024-07-30,2024-08-03,Standard,Green Tea Pack,Grocery,1120,1,0.15,952,Lahore,Punjab
+PK-100286,2024-08-01,2024-08-02,Express,Honey 1kg,Grocery,2180,1,0.15,1853,Karachi,Sindh
+PK-100287,2024-08-01,2024-08-03,Express,Men's Polo Shirt,Clothing,3320,2,0.1,5976,Sukkur,Sindh
+PK-100288,2024-08-02,2024-08-06,Standard,Women's Khaddar Shawl,Clothing,3260,1,0.0,3260,Hyderabad,Sindh
+PK-100289,2024-08-02,2024-08-07,Standard,Women's Khussa,Footwear,4480,1,0.05,4256,Karachi,Sindh
+PK-100290,2024-08-03,2024-08-07,Standard,Bed Sheet Set (King),Home & Kitchen,6100,2,0.0,12200,Lahore,Punjab
+PK-100291,2024-08-04,2024-08-08,Standard,Women's Khussa,Footwear,2030,1,0.0,2030,Sargodha,Punjab
+PK-100292,2024-08-04,2024-08-06,Express,Sunblock SPF 50,Beauty & Personal Care,1330,1,0.0,1330,Peshawar,Khyber Pakhtunkhwa
+PK-100293,2024-08-04,2024-08-06,Express,Bed Sheet Set (King),Home & Kitchen,3560,3,0.1,9612,Faisalabad,Punjab
+PK-100294,2024-08-06,2024-08-09,Standard,Kids Cotton T-Shirt,Clothing,1390,2,0.0,2780,Lahore,Punjab
+PK-100295,2024-08-07,2024-08-12,Standard,Women's Khaddar Shawl,Clothing,5330,2,0.05,10127,Lahore,Punjab
+PK-100296,2024-08-07,2024-08-12,Economy,Men's Polo Shirt,Clothing,2310,2,0.2,3696,Karachi,Sindh
+PK-100297,2024-08-07,2024-08-07,Same Day,Wireless Earbuds,Electronics,4720,5,0.05,22420,Peshawar,Khyber Pakhtunkhwa
+PK-100298,2024-08-09,2024-08-14,Standard,Smart Watch,Electronics,10100,1,0.0,10100,Karachi,Sindh
+PK-100299,2024-08-10,2024-08-15,Standard,Lipstick Set,Beauty & Personal Care,2020,1,0.15,1717,Karachi,Sindh
+PK-100300,2024-08-11,2024-08-14,Standard,Men's Polo Shirt,Clothing,2880,1,0.3,2016,Peshawar,Khyber Pakhtunkhwa
+PK-100301,2024-08-12,2024-08-19,Economy,Men's Lawn Kurta,Clothing,3760,1,0.1,3384,Mardan,Khyber Pakhtunkhwa
+PK-100302,2024-08-12,2024-08-16,Standard,Bed Sheet Set (King),Home & Kitchen,6630,2,0.15,11271,Hyderabad,Sindh
+PK-100303,2024-08-12,2024-08-15,Standard,Football (Size 5),Sports & Outdoors,4490,2,0.15,7633,Islamabad,Islamabad Capital Territory
+PK-100304,2024-08-12,2024-08-19,Economy,Men's Shalwar Kameez,Clothing,4580,1,0.1,4122,Rawalpindi,Punjab
+PK-100305,2024-08-12,2024-08-14,Express,Notebook Pack (6 pcs),Books & Stationery,710,1,0.2,568,Islamabad,Islamabad Capital Territory
+PK-100306,2024-08-13,2024-08-17,Standard,Green Tea Pack,Grocery,540,2,0.0,1080,Lahore,Punjab
+PK-100307,2024-08-13,2024-08-17,Standard,Rice Cooker,Home & Kitchen,7270,5,0.2,29080,Rawalpindi,Punjab
+PK-100308,2024-08-14,2024-08-19,Standard,Sunblock SPF 50,Beauty & Personal Care,1890,1,0.25,1418,Islamabad,Islamabad Capital Territory
+PK-100309,2024-08-14,2024-08-15,Express,Xiaomi Redmi Note 13,Electronics,61160,1,0.15,51986,Faisalabad,Punjab
+PK-100310,2024-08-15,2024-08-19,Standard,Honey 1kg,Grocery,3310,1,0.2,2648,Sukkur,Sindh
+PK-100311,2024-08-15,2024-08-21,Economy,Men's Polo Shirt,Clothing,2540,1,0.1,2286,Gilgit,Gilgit-Baltistan
+PK-100312,2024-08-15,2024-08-23,Economy,Green Tea Pack,Grocery,1050,1,0.25,788,Karachi,Sindh
+PK-100313,2024-08-15,2024-08-16,Express,Air Fryer,Home & Kitchen,14360,1,0.3,10052,Lahore,Punjab
+PK-100314,2024-08-16,2024-08-18,Express,Samsung Galaxy A15,Electronics,52660,1,0.1,47394,Karachi,Sindh
+PK-100315,2024-08-16,2024-08-20,Standard,Infinix Hot 40,Electronics,28020,1,0.2,22416,Lahore,Punjab
+PK-100316,2024-08-16,2024-08-19,Standard,Perfume for Men 100ml,Beauty & Personal Care,6530,1,0.15,5550,Lahore,Punjab
+PK-100317,2024-08-17,2024-08-19,Express,Bed Sheet Set (King),Home & Kitchen,7690,1,0.15,6536,Karachi,Sindh
+PK-100318,2024-08-17,2024-08-20,Standard,Infinix Hot 40,Electronics,34300,1,0.2,27440,Hyderabad,Sindh
+PK-100319,2024-08-19,2024-08-22,Standard,Cricket Bat (English Willow),Sports & Outdoors,28270,1,0.0,28270,Rawalpindi,Punjab
+PK-100320,2024-08-19,2024-08-23,Standard,School Bag,Books & Stationery,3150,1,0.0,3150,Bahawalpur,Punjab
+PK-100321,2024-08-20,2024-08-25,Standard,Kids School Shoes,Footwear,3810,1,0.0,3810,Karachi,Sindh
+PK-100322,2024-08-21,2024-08-25,Standard,Women's Khussa,Footwear,3290,2,0.0,6580,Karachi,Sindh
+PK-100323,2024-08-21,2024-08-23,Express,Samsung Galaxy A15,Electronics,50040,1,0.0,50040,Islamabad,Islamabad Capital Territory
+PK-100324,2024-08-22,2024-08-29,Economy,Dumbbell Set 20kg,Sports & Outdoors,5820,1,0.15,4947,Karachi,Sindh
+PK-100325,2024-08-23,2024-08-24,Express,Women's Khaddar Shawl,Clothing,3210,1,0.1,2889,Lahore,Punjab
+PK-100326,2024-08-23,2024-08-28,Economy,Olive Oil 1L,Grocery,2740,1,0.0,2740,Gwadar,Balochistan
+PK-100327,2024-08-24,2024-08-27,Standard,Men's Polo Shirt,Clothing,1620,2,0.2,2592,Lahore,Punjab
+PK-100328,2024-08-24,2024-08-29,Economy,Bed Sheet Set (King),Home & Kitchen,6760,4,0.0,27040,Karachi,Sindh
+PK-100329,2024-08-25,2024-08-27,Express,Men's Shalwar Kameez,Clothing,6780,1,0.0,6780,Faisalabad,Punjab
+PK-100330,2024-08-25,2024-08-29,Standard,Bluetooth Speaker,Electronics,8510,1,0.0,8510,Rawalpindi,Punjab
+PK-100331,2024-08-25,2024-08-31,Economy,Yoga Mat,Sports & Outdoors,1640,2,0.0,3280,Faisalabad,Punjab
+PK-100332,2024-08-25,2024-08-30,Standard,Kids School Shoes,Footwear,4070,2,0.15,6919,Lahore,Punjab
+PK-100333,2024-08-26,2024-08-31,Standard,Electric Kettle,Home & Kitchen,2980,1,0.0,2980,Gujranwala,Punjab
+PK-100334,2024-08-26,2024-08-31,Standard,Kids Toy Car Set,Baby & Kids,1990,1,0.05,1890,Karachi,Sindh
+PK-100335,2024-08-27,2024-08-31,Standard,Kids Toy Car Set,Baby & Kids,2830,1,0.0,2830,Islamabad,Islamabad Capital Territory
+PK-100336,2024-08-28,2024-09-02,Standard,Basmati Rice 5kg,Grocery,1760,2,0.15,2992,Peshawar,Khyber Pakhtunkhwa
+PK-100337,2024-08-29,2024-08-31,Express,Smart Watch,Electronics,4670,2,0.05,8873,Sialkot,Punjab
+PK-100338,2024-08-29,2024-09-03,Economy,Rice Cooker,Home & Kitchen,4620,2,0.0,9240,Lahore,Punjab
+PK-100339,2024-09-01,2024-09-04,Standard,Olive Oil 1L,Grocery,2670,3,0.0,8010,Faisalabad,Punjab
+PK-100340,2024-09-01,2024-09-02,Express,Men's Polo Shirt,Clothing,3120,1,0.15,2652,Karachi,Sindh
+PK-100341,2024-09-02,2024-09-07,Standard,Wireless Earbuds,Electronics,3140,1,0.05,2983,Karachi,Sindh
+PK-100342,2024-09-03,2024-09-11,Economy,O-Level Textbook,Books & Stationery,1870,1,0.0,1870,Karachi,Sindh
+PK-100343,2024-09-04,2024-09-09,Standard,Peshawari Chappal,Footwear,4210,3,0.1,11367,Peshawar,Khyber Pakhtunkhwa
+PK-100344,2024-09-05,2024-09-10,Standard,Bed Sheet Set (King),Home & Kitchen,4320,2,0.0,8640,Lahore,Punjab
+PK-100345,2024-09-06,2024-09-07,Express,Baby Stroller,Baby & Kids,16170,1,0.0,16170,Peshawar,Khyber Pakhtunkhwa
+PK-100346,2024-09-07,2024-09-09,Express,Rice Cooker,Home & Kitchen,9250,1,0.05,8788,Karachi,Sindh
+PK-100347,2024-09-07,2024-09-07,Same Day,Bridal Embroidered Dupatta,Clothing,15190,2,0.0,30380,Sialkot,Punjab
+PK-100348,2024-09-08,2024-09-10,Express,Men's Polo Shirt,Clothing,3250,2,0.0,6500,Gujranwala,Punjab
+PK-100349,2024-09-11,2024-09-11,Same Day,Bridal Embroidered Dupatta,Clothing,12240,2,0.0,24480,Karachi,Sindh
+PK-100350,2024-09-11,2024-09-14,Standard,Power Bank 20000mAh,Electronics,6000,1,0.0,6000,Karachi,Sindh
+PK-100351,2024-09-12,2024-09-17,Standard,Urdu Novel,Books & Stationery,820,4,0.0,3280,Karachi,Sindh
+PK-100352,2024-09-12,2024-09-17,Standard,School Bag,Books & Stationery,2030,2,0.0,4060,Sialkot,Punjab
+PK-100353,2024-09-13,2024-09-18,Standard,Men's Shalwar Kameez,Clothing,5950,2,0.15,10115,Lahore,Punjab
+PK-100354,2024-09-13,2024-09-17,Standard,Kids Cotton T-Shirt,Clothing,850,2,0.05,1615,Rawalpindi,Punjab
+PK-100355,2024-09-14,2024-09-17,Standard,Olive Oil 1L,Grocery,3320,4,0.0,13280,Islamabad,Islamabad Capital Territory
+PK-100356,2024-09-14,2024-09-18,Standard,Infinix Hot 40,Electronics,33530,1,0.0,33530,Quetta,Balochistan
+PK-100357,2024-09-15,2024-09-17,Express,Non-Stick Cookware Set,Home & Kitchen,12640,2,0.1,22752,Rawalpindi,Punjab
+PK-100358,2024-09-17,2024-09-21,Standard,Women's Khussa,Footwear,2650,1,0.0,2650,Rawalpindi,Punjab
+PK-100359,2024-09-18,2024-09-19,Express,Perfume for Men 100ml,Beauty & Personal Care,5660,1,0.0,5660,Gwadar,Balochistan
+PK-100360,2024-09-18,2024-09-19,Express,Bluetooth Speaker,Electronics,7400,3,0.05,21090,Karachi,Sindh
+PK-100361,2024-09-19,2024-09-24,Standard,Sunblock SPF 50,Beauty & Personal Care,1690,2,0.0,3380,Gujranwala,Punjab
+PK-100362,2024-09-24,2024-09-27,Standard,Men's Polo Shirt,Clothing,2580,1,0.1,2322,Karachi,Sindh
+PK-100363,2024-09-29,2024-10-01,Express,Dinner Set 72 Pcs,Home & Kitchen,13110,1,0.15,11144,Islamabad,Islamabad Capital Territory
+PK-100364,2024-09-30,2024-10-02,Express,Infinix Hot 40,Electronics,35830,1,0.1,32247,Sukkur,Sindh
+PK-100365,2024-09-30,2024-10-05,Standard,Women's Khussa,Footwear,3810,3,0.0,11430,Multan,Punjab
+PK-100366,2024-10-02,2024-10-06,Standard,Non-Stick Cookware Set,Home & Kitchen,6390,4,0.0,25560,Peshawar,Khyber Pakhtunkhwa
+PK-100367,2024-10-02,2024-10-03,Express,Men's Lawn Kurta,Clothing,3770,1,0.0,3770,Lahore,Punjab
+PK-100368,2024-10-03,2024-10-04,Express,Power Bank 20000mAh,Electronics,5270,2,0.1,9486,Islamabad,Islamabad Capital Territory
+PK-100369,2024-10-04,2024-10-08,Standard,Men's Lawn Kurta,Clothing,2680,3,0.15,6834,Lahore,Punjab
+PK-100370,2024-10-04,2024-10-08,Standard,Women's Khaddar Shawl,Clothing,4010,1,0.15,3408,Rawalpindi,Punjab
+PK-100371,2024-10-04,2024-10-09,Economy,Wireless Earbuds,Electronics,3920,1,0.0,3920,Islamabad,Islamabad Capital Territory
+PK-100372,2024-10-07,2024-10-12,Standard,Honey 1kg,Grocery,2090,5,0.1,9405,Lahore,Punjab
+PK-100373,2024-10-07,2024-10-15,Economy,Bridal Embroidered Dupatta,Clothing,12140,1,0.05,11533,Lahore,Punjab
+PK-100374,2024-10-07,2024-10-11,Standard,O-Level Textbook,Books & Stationery,2000,2,0.1,3600,Lahore,Punjab
+PK-100375,2024-10-07,2024-10-09,Express,Baby Stroller,Baby & Kids,14700,2,0.05,27930,Lahore,Punjab
+PK-100376,2024-10-08,2024-10-12,Standard,"Haier 32"" LED TV",Electronics,44720,1,0.0,44720,Karachi,Sindh
+PK-100377,2024-10-09,2024-10-13,Standard,Face Wash,Beauty & Personal Care,1140,1,0.0,1140,Sialkot,Punjab
+PK-100378,2024-10-09,2024-10-16,Economy,Basmati Rice 5kg,Grocery,1880,2,0.15,3196,Faisalabad,Punjab
+PK-100379,2024-10-09,2024-10-13,Standard,Face Wash,Beauty & Personal Care,1300,1,0.0,1300,Karachi,Sindh
+PK-100380,2024-10-10,2024-10-18,Economy,Men's Sports Shoes,Footwear,3660,3,0.0,10980,Peshawar,Khyber Pakhtunkhwa
+PK-100381,2024-10-12,2024-10-15,Standard,Men's Sports Shoes,Footwear,6630,1,0.0,6630,Gujranwala,Punjab
+PK-100382,2024-10-12,2024-10-19,Economy,Infinix Hot 40,Electronics,30560,1,0.0,30560,Lahore,Punjab
+PK-100383,2024-10-12,2024-10-20,Economy,Electric Kettle,Home & Kitchen,3410,2,0.15,5797,Karachi,Sindh
+PK-100384,2024-10-14,2024-10-16,Express,Baby Lotion,Baby & Kids,1020,1,0.0,1020,Karachi,Sindh
+PK-100385,2024-10-14,2024-10-17,Standard,Baby Diapers (Pack of 60),Baby & Kids,3550,1,0.0,3550,Karachi,Sindh
+PK-100386,2024-10-15,2024-10-16,Express,Infinix Hot 40,Electronics,35320,1,0.1,31788,Hyderabad,Sindh
+PK-100387,2024-10-17,2024-10-19,Express,Hair Dryer,Beauty & Personal Care,3920,1,0.05,3724,Gwadar,Balochistan
+PK-100388,2024-10-18,2024-10-26,Economy,Kids Cotton T-Shirt,Clothing,950,1,0.0,950,Karachi,Sindh
+PK-100389,2024-10-19,2024-10-24,Standard,Dates (Ajwa) 1kg,Grocery,4440,1,0.0,4440,Hyderabad,Sindh
+PK-100390,2024-10-20,2024-10-25,Standard,Infinix Hot 40,Electronics,32660,1,0.0,32660,Karachi,Sindh
+PK-100391,2024-10-21,2024-10-24,Standard,Honey 1kg,Grocery,2280,1,0.0,2280,Faisalabad,Punjab
+PK-100392,2024-10-24,2024-10-26,Express,Notebook Pack (6 pcs),Books & Stationery,1540,1,0.0,1540,Hyderabad,Sindh
+PK-100393,2024-10-25,2024-11-01,Economy,Wireless Earbuds,Electronics,5090,5,0.0,25450,Lahore,Punjab
+PK-100394,2024-10-25,2024-10-29,Standard,Xiaomi Redmi Note 13,Electronics,57150,1,0.1,51435,Karachi,Sindh
+PK-100395,2024-10-26,2024-10-28,Express,Notebook Pack (6 pcs),Books & Stationery,1100,1,0.1,990,Faisalabad,Punjab
+PK-100396,2024-10-26,2024-10-31,Economy,Bluetooth Speaker,Electronics,5520,1,0.15,4692,Gilgit,Gilgit-Baltistan
+PK-100397,2024-10-26,2024-10-30,Standard,Electric Kettle,Home & Kitchen,3290,1,0.0,3290,Lahore,Punjab
+PK-100398,2024-10-27,2024-10-31,Standard,Green Tea Pack,Grocery,1020,1,0.0,1020,Karachi,Sindh
+PK-100399,2024-10-27,2024-10-29,Express,Bed Sheet Set (King),Home & Kitchen,3950,2,0.2,6320,Karachi,Sindh
+PK-100400,2024-10-28,2024-10-29,Express,Bridal Embroidered Dupatta,Clothing,15340,1,0.1,13806,Rawalpindi,Punjab
+PK-100401,2024-10-29,2024-11-01,Standard,Men's Sports Shoes,Footwear,8290,2,0.05,15751,Faisalabad,Punjab
+PK-100402,2024-10-29,2024-11-03,Economy,Xiaomi Redmi Note 13,Electronics,58450,1,0.0,58450,Quetta,Balochistan
+PK-100403,2024-10-31,2024-11-01,Express,Kids Toy Car Set,Baby & Kids,940,1,0.0,940,Hyderabad,Sindh
+PK-100404,2024-11-01,2024-11-09,Economy,Kids Cotton T-Shirt,Clothing,1070,1,0.05,1016,Sukkur,Sindh
+PK-100405,2024-11-03,2024-11-11,Economy,Men's Lawn Kurta,Clothing,3750,1,0.05,3562,Quetta,Balochistan
+PK-100406,2024-11-03,2024-11-09,Economy,Men's Shalwar Kameez,Clothing,5680,2,0.0,11360,Lahore,Punjab
+PK-100407,2024-11-05,2024-11-07,Express,Kids Toy Car Set,Baby & Kids,3010,1,0.15,2558,Rawalpindi,Punjab
+PK-100408,2024-11-06,2024-11-10,Standard,Wireless Earbuds,Electronics,4380,1,0.05,4161,Lahore,Punjab
+PK-100409,2024-11-06,2024-11-08,Express,Basmati Rice 5kg,Grocery,2490,1,0.05,2366,Lahore,Punjab
+PK-100410,2024-11-06,2024-11-09,Standard,Hair Dryer,Beauty & Personal Care,3400,3,0.0,10200,Abbottabad,Khyber Pakhtunkhwa
+PK-100411,2024-11-07,2024-11-09,Express,Notebook Pack (6 pcs),Books & Stationery,1110,1,0.1,999,Peshawar,Khyber Pakhtunkhwa
+PK-100412,2024-11-07,2024-11-11,Standard,Baby Stroller,Baby & Kids,9050,2,0.1,16290,Sargodha,Punjab
+PK-100413,2024-11-08,2024-11-10,Express,School Bag,Books & Stationery,4320,1,0.15,3672,Islamabad,Islamabad Capital Territory
+PK-100414,2024-11-08,2024-11-12,Standard,Honey 1kg,Grocery,2160,1,0.3,1512,Rawalpindi,Punjab
+PK-100415,2024-11-08,2024-11-13,Standard,Power Bank 20000mAh,Electronics,4270,2,0.15,7259,Rawalpindi,Punjab
+PK-100416,2024-11-09,2024-11-13,Standard,Urdu Novel,Books & Stationery,1530,1,0.1,1377,Karachi,Sindh
+PK-100417,2024-11-09,2024-11-11,Express,Electric Kettle,Home & Kitchen,4240,1,0.15,3604,Lahore,Punjab
+PK-100418,2024-11-10,2024-11-11,Same Day,Electric Kettle,Home & Kitchen,2840,4,0.1,10224,Rawalpindi,Punjab
+PK-100419,2024-11-10,2024-11-13,Standard,Dates (Ajwa) 1kg,Grocery,2510,1,0.25,1882,Karachi,Sindh
+PK-100420,2024-11-10,2024-11-18,Economy,Kids Toy Car Set,Baby & Kids,2070,1,0.2,1656,Abbottabad,Khyber Pakhtunkhwa
+PK-100421,2024-11-10,2024-11-17,Economy,Hair Dryer,Beauty & Personal Care,3930,1,0.15,3340,Karachi,Sindh
+PK-100422,2024-11-11,2024-11-15,Standard,Peshawari Chappal,Footwear,3040,1,0.15,2584,Karachi,Sindh
+PK-100423,2024-11-11,2024-11-12,Express,Women's Khussa,Footwear,3460,2,0.2,5536,Hyderabad,Sindh
+PK-100424,2024-11-11,2024-11-16,Standard,Men's Polo Shirt,Clothing,1960,1,0.25,1470,Karachi,Sindh
+PK-100425,2024-11-11,2024-11-16,Standard,Men's Polo Shirt,Clothing,2680,4,0.0,10720,Bahawalpur,Punjab
+PK-100426,2024-11-11,2024-11-13,Express,Men's Polo Shirt,Clothing,2260,2,0.0,4520,Peshawar,Khyber Pakhtunkhwa
+PK-100427,2024-11-13,2024-11-18,Standard,"Haier 32"" LED TV",Electronics,44990,1,0.1,40491,Karachi,Sindh
+PK-100428,2024-11-14,2024-11-21,Economy,"Haier 32"" LED TV",Electronics,44210,1,0.15,37578,Peshawar,Khyber Pakhtunkhwa
+PK-100429,2024-11-16,2024-11-21,Economy,Yoga Mat,Sports & Outdoors,1970,4,0.05,7486,Multan,Punjab
+PK-100430,2024-11-16,2024-11-21,Economy,Men's Sports Shoes,Footwear,3680,2,0.15,6256,Hyderabad,Sindh
+PK-100431,2024-11-17,2024-11-18,Express,Honey 1kg,Grocery,2540,1,0.1,2286,Gujranwala,Punjab
+PK-100432,2024-11-18,2024-11-19,Express,Dinner Set 72 Pcs,Home & Kitchen,15170,1,0.05,14412,Peshawar,Khyber Pakhtunkhwa
+PK-100433,2024-11-18,2024-11-25,Economy,Infinix Hot 40,Electronics,34650,1,0.1,31185,Faisalabad,Punjab
+PK-100434,2024-11-19,2024-11-24,Standard,Bluetooth Speaker,Electronics,5110,1,0.0,5110,Lahore,Punjab
+PK-100435,2024-11-19,2024-11-22,Standard,Men's Lawn Kurta,Clothing,4100,2,0.0,8200,Peshawar,Khyber Pakhtunkhwa
+PK-100436,2024-11-21,2024-11-23,Express,Baby Stroller,Baby & Kids,14460,1,0.0,14460,Mardan,Khyber Pakhtunkhwa
+PK-100437,2024-11-21,2024-11-24,Standard,Men's Lawn Kurta,Clothing,4930,3,0.0,14790,Faisalabad,Punjab
+PK-100438,2024-11-22,2024-11-26,Standard,Non-Stick Cookware Set,Home & Kitchen,7270,1,0.0,7270,Multan,Punjab
+PK-100439,2024-11-22,2024-11-27,Standard,Honey 1kg,Grocery,2510,4,0.0,10040,Islamabad,Islamabad Capital Territory
+PK-100440,2024-11-22,2024-11-24,Express,Baby Stroller,Baby & Kids,11670,1,0.15,9920,Hyderabad,Sindh
+PK-100441,2024-11-22,2024-11-27,Standard,Women's 3-Piece Lawn Suit,Clothing,3750,1,0.15,3188,Gilgit,Gilgit-Baltistan
+PK-100442,2024-11-22,2024-11-25,Standard,Xiaomi Redmi Note 13,Electronics,52410,1,0.1,47169,Karachi,Sindh
+PK-100443,2024-11-23,2024-11-28,Standard,Bluetooth Speaker,Electronics,8240,3,0.1,22248,Lahore,Punjab
+PK-100444,2024-11-25,2024-11-30,Standard,Xiaomi Redmi Note 13,Electronics,60770,1,0.25,45578,Rawalpindi,Punjab
+PK-100445,2024-11-25,2024-12-01,Economy,Men's Lawn Kurta,Clothing,2560,5,0.1,11520,Rawalpindi,Punjab
+PK-100446,2024-11-26,2024-11-29,Standard,Air Fryer,Home & Kitchen,16950,1,0.1,15255,Faisalabad,Punjab
+PK-100447,2024-11-27,2024-11-28,Express,Green Tea Pack,Grocery,740,3,0.2,1776,Karachi,Sindh
+PK-100448,2024-11-27,2024-11-28,Same Day,Electric Kettle,Home & Kitchen,4120,1,0.15,3502,Islamabad,Islamabad Capital Territory
+PK-100449,2024-11-28,2024-12-01,Standard,Dinner Set 72 Pcs,Home & Kitchen,12220,1,0.2,9776,Faisalabad,Punjab
+PK-100450,2024-11-28,2024-12-04,Economy,Men's Lawn Kurta,Clothing,2270,1,0.25,1702,Faisalabad,Punjab
+PK-100451,2024-11-28,2024-11-29,Express,Urdu Novel,Books & Stationery,1610,1,0.1,1449,Multan,Punjab
+PK-100452,2024-11-29,2024-11-30,Express,Dinner Set 72 Pcs,Home & Kitchen,15780,1,0.1,14202,Peshawar,Khyber Pakhtunkhwa
+PK-100453,2024-11-29,2024-12-04,Standard,Basmati Rice 5kg,Grocery,2290,2,0.15,3893,Multan,Punjab
+PK-100454,2024-11-30,2024-12-05,Standard,Baby Diapers (Pack of 60),Baby & Kids,3260,1,0.1,2934,Quetta,Balochistan
+PK-100455,2024-11-30,2024-12-05,Economy,Women's Khaddar Shawl,Clothing,4350,4,0.2,13920,Faisalabad,Punjab
+PK-100456,2024-11-30,2024-11-30,Same Day,"Haier 32"" LED TV",Electronics,47350,1,0.2,37880,Rawalpindi,Punjab
+PK-100457,2024-11-30,2024-12-05,Economy,Women's 3-Piece Lawn Suit,Clothing,4390,1,0.15,3732,Faisalabad,Punjab
+PK-100458,2024-12-01,2024-12-09,Economy,Men's Sports Shoes,Footwear,7000,2,0.2,11200,Karachi,Sindh
+PK-100459,2024-12-01,2024-12-05,Standard,Honey 1kg,Grocery,1910,1,0.15,1624,Lahore,Punjab
+PK-100460,2024-12-01,2024-12-02,Same Day,Men's Polo Shirt,Clothing,3150,1,0.2,2520,Rawalpindi,Punjab
+PK-100461,2024-12-03,2024-12-06,Standard,Badminton Racket Pair,Sports & Outdoors,4430,2,0.0,8860,Sialkot,Punjab
+PK-100462,2024-12-04,2024-12-04,Same Day,Electric Kettle,Home & Kitchen,3920,1,0.05,3724,Multan,Punjab
+PK-100463,2024-12-05,2024-12-09,Standard,Smart Watch,Electronics,7610,1,0.0,7610,Karachi,Sindh
+PK-100464,2024-12-06,2024-12-09,Standard,Kids Cotton T-Shirt,Clothing,1770,2,0.15,3009,Faisalabad,Punjab
+PK-100465,2024-12-06,2024-12-07,Same Day,Face Wash,Beauty & Personal Care,620,1,0.15,527,Lahore,Punjab
+PK-100466,2024-12-07,2024-12-08,Same Day,Sunblock SPF 50,Beauty & Personal Care,1500,3,0.0,4500,Peshawar,Khyber Pakhtunkhwa
+PK-100467,2024-12-08,2024-12-09,Express,Men's Sports Shoes,Footwear,4490,2,0.0,8980,Gujranwala,Punjab
+PK-100468,2024-12-08,2024-12-12,Standard,Women's 3-Piece Lawn Suit,Clothing,7450,1,0.0,7450,Faisalabad,Punjab
+PK-100469,2024-12-08,2024-12-13,Standard,Lipstick Set,Beauty & Personal Care,2980,1,0.1,2682,Faisalabad,Punjab
+PK-100470,2024-12-09,2024-12-17,Economy,Smart Watch,Electronics,6740,1,0.25,5055,Lahore,Punjab
+PK-100471,2024-12-09,2024-12-12,Standard,Honey 1kg,Grocery,3970,2,0.15,6749,Islamabad,Islamabad Capital Territory
+PK-100472,2024-12-09,2024-12-12,Standard,Smart Watch,Electronics,7150,1,0.2,5720,Sialkot,Punjab
+PK-100473,2024-12-10,2024-12-12,Express,Wireless Earbuds,Electronics,5740,4,0.3,16072,Peshawar,Khyber Pakhtunkhwa
+PK-100474,2024-12-10,2024-12-15,Standard,Kids School Shoes,Footwear,2090,1,0.2,1672,Rawalpindi,Punjab
+PK-100475,2024-12-10,2024-12-11,Express,Non-Stick Cookware Set,Home & Kitchen,9220,2,0.1,16596,Lahore,Punjab
+PK-100476,2024-12-12,2024-12-16,Standard,Non-Stick Cookware Set,Home & Kitchen,10410,1,0.0,10410,Karachi,Sindh
+PK-100477,2024-12-12,2024-12-19,Economy,Men's Sports Shoes,Footwear,6720,1,0.25,5040,Karachi,Sindh
+PK-100478,2024-12-12,2024-12-19,Economy,Baby Lotion,Baby & Kids,810,1,0.15,688,Karachi,Sindh
+PK-100479,2024-12-13,2024-12-21,Economy,Kids School Shoes,Footwear,3820,1,0.1,3438,Lahore,Punjab
+PK-100480,2024-12-13,2024-12-14,Express,Peshawari Chappal,Footwear,5410,5,0.15,22992,Mardan,Khyber Pakhtunkhwa
+PK-100481,2024-12-14,2024-12-19,Standard,Bridal Embroidered Dupatta,Clothing,11510,1,0.25,8632,Rawalpindi,Punjab
+PK-100482,2024-12-14,2024-12-15,Express,Xiaomi Redmi Note 13,Electronics,56900,1,0.15,48365,Lahore,Punjab
+PK-100483,2024-12-15,2024-12-20,Economy,Rice Cooker,Home & Kitchen,8450,1,0.25,6338,Karachi,Sindh
+PK-100484,2024-12-15,2024-12-17,Express,Women's 3-Piece Lawn Suit,Clothing,4950,1,0.2,3960,Lahore,Punjab
+PK-100485,2024-12-16,2024-12-17,Express,Face Wash,Beauty & Personal Care,1270,3,0.0,3810,Gujranwala,Punjab
+PK-100486,2024-12-16,2024-12-18,Express,Xiaomi Redmi Note 13,Electronics,51920,1,0.1,46728,Lahore,Punjab
+PK-100487,2024-12-17,2024-12-18,Express,Baby Stroller,Baby & Kids,16650,3,0.0,49950,Hyderabad,Sindh
+PK-100488,2024-12-17,2024-12-18,Express,Peshawari Chappal,Footwear,2840,1,0.0,2840,Quetta,Balochistan
+PK-100489,2024-12-17,2024-12-20,Standard,Dates (Ajwa) 1kg,Grocery,3280,1,0.0,3280,Karachi,Sindh
+PK-100490,2024-12-20,2024-12-25,Standard,Peshawari Chappal,Footwear,4100,2,0.0,8200,Faisalabad,Punjab
+PK-100491,2024-12-22,2024-12-23,Express,Xiaomi Redmi Note 13,Electronics,55350,1,0.15,47048,Mardan,Khyber Pakhtunkhwa
+PK-100492,2024-12-23,2024-12-26,Standard,O-Level Textbook,Books & Stationery,4050,2,0.2,6480,Islamabad,Islamabad Capital Territory
+PK-100493,2024-12-23,2024-12-29,Economy,Face Wash,Beauty & Personal Care,1400,1,0.1,1260,Karachi,Sindh
+PK-100494,2024-12-23,2024-12-24,Express,Yoga Mat,Sports & Outdoors,1660,1,0.0,1660,Abbottabad,Khyber Pakhtunkhwa
+PK-100495,2024-12-23,2024-12-28,Standard,Men's Sports Shoes,Footwear,5130,3,0.15,13082,Sukkur,Sindh
+PK-100496,2024-12-24,2024-12-29,Economy,Face Wash,Beauty & Personal Care,790,1,0.1,711,Rawalpindi,Punjab
+PK-100497,2024-12-25,2024-12-26,Express,Basmati Rice 5kg,Grocery,2130,5,0.0,10650,Rawalpindi,Punjab
+PK-100498,2024-12-26,2024-12-26,Same Day,Dinner Set 72 Pcs,Home & Kitchen,11700,1,0.05,11115,Lahore,Punjab
+PK-100499,2024-12-26,2024-12-29,Standard,Women's Khaddar Shawl,Clothing,5500,1,0.05,5225,Gujranwala,Punjab
+PK-100500,2024-12-26,2024-12-31,Economy,Sunblock SPF 50,Beauty & Personal Care,2740,1,0.0,2740,Rawalpindi,Punjab
+PK-100501,2024-12-27,2024-12-31,Standard,Sunblock SPF 50,Beauty & Personal Care,1240,1,0.05,1178,Karachi,Sindh
+PK-100502,2024-12-29,2024-12-30,Express,Baby Diapers (Pack of 60),Baby & Kids,2930,1,0.1,2637,Peshawar,Khyber Pakhtunkhwa
+PK-100503,2024-12-30,2025-01-02,Standard,Men's Polo Shirt,Clothing,2740,1,0.0,2740,Mardan,Khyber Pakhtunkhwa
+PK-100504,2025-01-01,2025-01-02,Express,Bridal Embroidered Dupatta,Clothing,11520,2,0.0,23040,Gujranwala,Punjab
+PK-100505,2025-01-01,2025-01-03,Express,O-Level Textbook,Books & Stationery,1890,3,0.05,5386,Lahore,Punjab
+PK-100506,2025-01-03,2025-01-05,Express,Non-Stick Cookware Set,Home & Kitchen,8480,1,0.1,7632,Karachi,Sindh
+PK-100507,2025-01-04,2025-01-08,Standard,Lipstick Set,Beauty & Personal Care,1760,1,0.2,1408,Mardan,Khyber Pakhtunkhwa
+PK-100508,2025-01-04,2025-01-12,Economy,Women's Khussa,Footwear,2310,1,0.1,2079,Abbottabad,Khyber Pakhtunkhwa
+PK-100509,2025-01-04,2025-01-05,Express,Men's Lawn Kurta,Clothing,4700,2,0.05,8930,Rawalpindi,Punjab
+PK-100510,2025-01-05,2025-01-10,Standard,Cricket Bat (English Willow),Sports & Outdoors,14700,2,0.05,27930,Multan,Punjab
+PK-100511,2025-01-06,2025-01-14,Economy,Power Bank 20000mAh,Electronics,5270,1,0.05,5006,Islamabad,Islamabad Capital Territory
+PK-100512,2025-01-07,2025-01-08,Express,Men's Lawn Kurta,Clothing,3900,1,0.05,3705,Islamabad,Islamabad Capital Territory
+PK-100513,2025-01-07,2025-01-14,Economy,Dinner Set 72 Pcs,Home & Kitchen,14960,1,0.0,14960,Karachi,Sindh
+PK-100514,2025-01-10,2025-01-18,Economy,Cricket Bat (English Willow),Sports & Outdoors,9610,1,0.05,9130,Karachi,Sindh
+PK-100515,2025-01-10,2025-01-17,Economy,Dates (Ajwa) 1kg,Grocery,2810,1,0.1,2529,Lahore,Punjab
+PK-100516,2025-01-11,2025-01-11,Same Day,Men's Shalwar Kameez,Clothing,4350,5,0.05,20662,Gujranwala,Punjab
+PK-100517,2025-01-12,2025-01-14,Express,Wireless Earbuds,Electronics,4660,1,0.1,4194,Karachi,Sindh
+PK-100518,2025-01-12,2025-01-17,Standard,Baby Diapers (Pack of 60),Baby & Kids,2680,1,0.05,2546,Lahore,Punjab
+PK-100519,2025-01-12,2025-01-13,Express,Bluetooth Speaker,Electronics,7530,1,0.0,7530,Rawalpindi,Punjab
+PK-100520,2025-01-13,2025-01-14,Same Day,Men's Lawn Kurta,Clothing,3010,1,0.0,3010,Lahore,Punjab
+PK-100521,2025-01-14,2025-01-16,Express,Kids Cotton T-Shirt,Clothing,880,1,0.0,880,Karachi,Sindh
+PK-100522,2025-01-14,2025-01-20,Economy,Electric Kettle,Home & Kitchen,3920,1,0.0,3920,Faisalabad,Punjab
+PK-100523,2025-01-15,2025-01-18,Standard,Olive Oil 1L,Grocery,3110,1,0.0,3110,Lahore,Punjab
+PK-100524,2025-01-16,2025-01-19,Standard,Football (Size 5),Sports & Outdoors,4050,2,0.0,8100,Faisalabad,Punjab
+PK-100525,2025-01-16,2025-01-18,Express,Hair Dryer,Beauty & Personal Care,5510,1,0.0,5510,Bahawalpur,Punjab
+PK-100526,2025-01-17,2025-01-22,Standard,Smart Watch,Electronics,9800,4,0.0,39200,Karachi,Sindh
+PK-100527,2025-01-18,2025-01-22,Standard,Women's Khaddar Shawl,Clothing,5030,1,0.1,4527,Bahawalpur,Punjab
+PK-100528,2025-01-18,2025-01-23,Standard,Peshawari Chappal,Footwear,4540,1,0.1,4086,Bahawalpur,Punjab
+PK-100529,2025-01-19,2025-01-27,Economy,Bluetooth Speaker,Electronics,4250,4,0.0,17000,Gujranwala,Punjab
+PK-100530,2025-01-20,2025-01-24,Standard,Men's Shalwar Kameez,Clothing,5480,3,0.0,16440,Multan,Punjab
+PK-100531,2025-01-24,2025-01-28,Standard,Kids Cotton T-Shirt,Clothing,1570,1,0.0,1570,Faisalabad,Punjab
+PK-100532,2025-01-24,2025-01-29,Standard,Power Bank 20000mAh,Electronics,4450,3,0.0,13350,Multan,Punjab
+PK-100533,2025-01-25,2025-01-29,Standard,Bed Sheet Set (King),Home & Kitchen,6340,1,0.0,6340,Peshawar,Khyber Pakhtunkhwa
+PK-100534,2025-01-25,2025-01-30,Standard,Hair Dryer,Beauty & Personal Care,4580,1,0.0,4580,Karachi,Sindh
+PK-100535,2025-01-25,2025-01-27,Express,Xiaomi Redmi Note 13,Electronics,55040,1,0.0,55040,Mardan,Khyber Pakhtunkhwa
+PK-100536,2025-01-26,2025-01-26,Same Day,Peshawari Chappal,Footwear,2770,2,0.2,4432,Faisalabad,Punjab
+PK-100537,2025-01-26,2025-01-30,Standard,Dumbbell Set 20kg,Sports & Outdoors,9160,1,0.05,8702,Quetta,Balochistan
+PK-100538,2025-01-28,2025-01-30,Express,Cricket Bat (English Willow),Sports & Outdoors,28580,1,0.1,25722,Lahore,Punjab
+PK-100539,2025-01-29,2025-02-03,Standard,O-Level Textbook,Books & Stationery,1920,1,0.0,1920,Karachi,Sindh
+PK-100540,2025-01-29,2025-02-02,Standard,Women's Khussa,Footwear,2790,1,0.0,2790,Rawalpindi,Punjab
+PK-100541,2025-01-29,2025-02-06,Economy,O-Level Textbook,Books & Stationery,1650,5,0.15,7012,Rawalpindi,Punjab
+PK-100542,2025-02-01,2025-02-02,Express,Women's 3-Piece Lawn Suit,Clothing,3680,1,0.0,3680,Islamabad,Islamabad Capital Territory
+PK-100543,2025-02-02,2025-02-08,Economy,Men's Polo Shirt,Clothing,3480,2,0.05,6612,Lahore,Punjab
+PK-100544,2025-02-03,2025-02-06,Standard,Smart Watch,Electronics,9190,2,0.2,14704,Lahore,Punjab
+PK-100545,2025-02-09,2025-02-12,Standard,Peshawari Chappal,Footwear,3570,1,0.05,3392,Rawalpindi,Punjab
+PK-100546,2025-02-12,2025-02-17,Standard,Men's Polo Shirt,Clothing,2050,1,0.0,2050,Lahore,Punjab
+PK-100547,2025-02-12,2025-02-17,Standard,Women's 3-Piece Lawn Suit,Clothing,9380,5,0.05,44555,Sargodha,Punjab
+PK-100548,2025-02-12,2025-02-19,Economy,Football (Size 5),Sports & Outdoors,2260,2,0.0,4520,Karachi,Sindh
+PK-100549,2025-02-12,2025-02-17,Standard,Kids Cotton T-Shirt,Clothing,1530,2,0.0,3060,Lahore,Punjab
+PK-100550,2025-02-12,2025-02-18,Economy,Men's Shalwar Kameez,Clothing,4280,1,0.0,4280,Lahore,Punjab
+PK-100551,2025-02-12,2025-02-19,Economy,Power Bank 20000mAh,Electronics,3710,1,0.15,3154,Rawalpindi,Punjab
+PK-100552,2025-02-13,2025-02-14,Express,Men's Sports Shoes,Footwear,7600,1,0.05,7220,Rawalpindi,Punjab
+PK-100553,2025-02-13,2025-02-18,Standard,Kids Cotton T-Shirt,Clothing,800,1,0.0,800,Multan,Punjab
+PK-100554,2025-02-13,2025-02-14,Express,Men's Polo Shirt,Clothing,2850,1,0.0,2850,Mardan,Khyber Pakhtunkhwa
+PK-100555,2025-02-13,2025-02-18,Standard,Women's 3-Piece Lawn Suit,Clothing,5000,2,0.05,9500,Lahore,Punjab
+PK-100556,2025-02-14,2025-02-15,Same Day,Badminton Racket Pair,Sports & Outdoors,6150,3,0.15,15682,Peshawar,Khyber Pakhtunkhwa
+PK-100557,2025-02-14,2025-02-19,Standard,Honey 1kg,Grocery,3650,1,0.0,3650,Karachi,Sindh
+PK-100558,2025-02-15,2025-02-23,Economy,Kids School Shoes,Footwear,3590,1,0.0,3590,Lahore,Punjab
+PK-100559,2025-02-17,2025-02-19,Express,Face Wash,Beauty & Personal Care,470,2,0.1,846,Islamabad,Islamabad Capital Territory
+PK-100560,2025-02-18,2025-02-19,Express,Basmati Rice 5kg,Grocery,2330,1,0.15,1980,Karachi,Sindh
+PK-100561,2025-02-19,2025-02-21,Express,Baby Lotion,Baby & Kids,1490,4,0.15,5066,Faisalabad,Punjab
+PK-100562,2025-02-21,2025-02-22,Express,Dinner Set 72 Pcs,Home & Kitchen,9560,1,0.0,9560,Multan,Punjab
+PK-100563,2025-02-21,2025-02-26,Economy,Olive Oil 1L,Grocery,2270,1,0.0,2270,Hyderabad,Sindh
+PK-100564,2025-02-22,2025-02-26,Standard,Dates (Ajwa) 1kg,Grocery,4700,1,0.0,4700,Rawalpindi,Punjab
+PK-100565,2025-02-23,2025-03-01,Economy,Dumbbell Set 20kg,Sports & Outdoors,6380,4,0.0,25520,Faisalabad,Punjab
+PK-100566,2025-02-24,2025-03-02,Economy,Women's Khussa,Footwear,3580,1,0.15,3043,Islamabad,Islamabad Capital Territory
+PK-100567,2025-02-25,2025-03-02,Economy,"Haier 32"" LED TV",Electronics,54080,1,0.0,54080,Karachi,Sindh
+PK-100568,2025-02-25,2025-03-01,Standard,Samsung Galaxy A15,Electronics,42480,1,0.05,40356,Karachi,Sindh
+PK-100569,2025-02-26,2025-03-05,Economy,Peshawari Chappal,Footwear,4160,1,0.15,3536,Multan,Punjab
+PK-100570,2025-02-27,2025-03-02,Standard,Kids School Shoes,Footwear,3270,3,0.2,7848,Gilgit,Gilgit-Baltistan
+PK-100571,2025-02-27,2025-02-28,Same Day,Bridal Embroidered Dupatta,Clothing,9640,1,0.05,9158,Karachi,Sindh
+PK-100572,2025-02-27,2025-03-02,Standard,Bed Sheet Set (King),Home & Kitchen,7410,1,0.15,6298,Rawalpindi,Punjab
+PK-100573,2025-02-27,2025-03-02,Standard,Bed Sheet Set (King),Home & Kitchen,3980,1,0.0,3980,Hyderabad,Sindh
+PK-100574,2025-03-01,2025-03-05,Standard,Notebook Pack (6 pcs),Books & Stationery,1100,3,0.0,3300,Gujranwala,Punjab
+PK-100575,2025-03-04,2025-03-08,Standard,Wireless Earbuds,Electronics,6740,1,0.0,6740,Rawalpindi,Punjab
+PK-100576,2025-03-05,2025-03-10,Standard,Women's 3-Piece Lawn Suit,Clothing,4640,1,0.2,3712,Faisalabad,Punjab
+PK-100577,2025-03-06,2025-03-11,Economy,Urdu Novel,Books & Stationery,1590,5,0.15,6758,Peshawar,Khyber Pakhtunkhwa
+PK-100578,2025-03-06,2025-03-10,Standard,School Bag,Books & Stationery,2070,2,0.0,4140,Sialkot,Punjab
+PK-100579,2025-03-06,2025-03-08,Express,Baby Lotion,Baby & Kids,1040,3,0.0,3120,Karachi,Sindh
+PK-100580,2025-03-09,2025-03-12,Standard,Olive Oil 1L,Grocery,1930,2,0.0,3860,Abbottabad,Khyber Pakhtunkhwa
+PK-100581,2025-03-09,2025-03-10,Same Day,Olive Oil 1L,Grocery,2950,2,0.0,5900,Karachi,Sindh
+PK-100582,2025-03-09,2025-03-10,Same Day,Kids Cotton T-Shirt,Clothing,1590,1,0.1,1431,Gujranwala,Punjab
+PK-100583,2025-03-10,2025-03-15,Standard,Bridal Embroidered Dupatta,Clothing,16200,1,0.0,16200,Karachi,Sindh
+PK-100584,2025-03-11,2025-03-13,Express,Men's Shalwar Kameez,Clothing,7420,2,0.1,13356,Karachi,Sindh
+PK-100585,2025-03-11,2025-03-16,Economy,Rice Cooker,Home & Kitchen,7860,2,0.05,14934,Karachi,Sindh
+PK-100586,2025-03-12,2025-03-18,Economy,Honey 1kg,Grocery,3650,4,0.0,14600,Islamabad,Islamabad Capital Territory
+PK-100587,2025-03-12,2025-03-17,Standard,Women's Khaddar Shawl,Clothing,4270,1,0.0,4270,Lahore,Punjab
+PK-100588,2025-03-13,2025-03-16,Standard,Bed Sheet Set (King),Home & Kitchen,7580,1,0.2,6064,Karachi,Sindh
+PK-100589,2025-03-13,2025-03-13,Same Day,Kids Cotton T-Shirt,Clothing,1440,1,0.05,1368,Islamabad,Islamabad Capital Territory
+PK-100590,2025-03-14,2025-03-19,Standard,Smart Watch,Electronics,12890,2,0.0,25780,Islamabad,Islamabad Capital Territory
+PK-100591,2025-03-14,2025-03-22,Economy,Men's Lawn Kurta,Clothing,2980,1,0.0,2980,Hyderabad,Sindh
+PK-100592,2025-03-14,2025-03-18,Standard,Xiaomi Redmi Note 13,Electronics,54950,1,0.15,46708,Sukkur,Sindh
+PK-100593,2025-03-14,2025-03-22,Economy,Baby Diapers (Pack of 60),Baby & Kids,3370,2,0.1,6066,Multan,Punjab
+PK-100594,2025-03-16,2025-03-21,Standard,Bridal Embroidered Dupatta,Clothing,8430,1,0.1,7587,Karachi,Sindh
+PK-100595,2025-03-16,2025-03-19,Standard,Notebook Pack (6 pcs),Books & Stationery,930,1,0.05,884,Lahore,Punjab
+PK-100596,2025-03-17,2025-03-23,Economy,Perfume for Men 100ml,Beauty & Personal Care,8860,2,0.15,15062,Bahawalpur,Punjab
+PK-100597,2025-03-17,2025-03-25,Economy,Men's Lawn Kurta,Clothing,3630,4,0.0,14520,Karachi,Sindh
+PK-100598,2025-03-18,2025-03-23,Economy,Smart Watch,Electronics,6230,1,0.1,5607,Islamabad,Islamabad Capital Territory
+PK-100599,2025-03-18,2025-03-23,Economy,O-Level Textbook,Books & Stationery,2490,1,0.0,2490,Mardan,Khyber Pakhtunkhwa
+PK-100600,2025-03-18,2025-03-22,Standard,Men's Shalwar Kameez,Clothing,4790,1,0.05,4550,Mardan,Khyber Pakhtunkhwa
+PK-100601,2025-03-20,2025-03-25,Standard,Green Tea Pack,Grocery,920,1,0.2,736,Islamabad,Islamabad Capital Territory
+PK-100602,2025-03-21,2025-03-26,Standard,Power Bank 20000mAh,Electronics,6270,1,0.2,5016,Multan,Punjab
+PK-100603,2025-03-21,2025-03-22,Express,Perfume for Men 100ml,Beauty & Personal Care,8910,3,0.05,25394,Islamabad,Islamabad Capital Territory
+PK-100604,2025-03-22,2025-03-26,Standard,O-Level Textbook,Books & Stationery,3460,4,0.05,13148,Hyderabad,Sindh
+PK-100605,2025-03-22,2025-03-30,Economy,Women's 3-Piece Lawn Suit,Clothing,7700,1,0.15,6545,Karachi,Sindh
+PK-100606,2025-03-23,2025-03-26,Standard,Men's Shalwar Kameez,Clothing,4450,1,0.2,3560,Karachi,Sindh
+PK-100607,2025-03-24,2025-03-28,Standard,Kids Toy Car Set,Baby & Kids,2870,1,0.1,2583,Faisalabad,Punjab
+PK-100608,2025-03-24,2025-03-28,Standard,Men's Shalwar Kameez,Clothing,3980,2,0.0,7960,Lahore,Punjab
+PK-100609,2025-03-26,2025-03-31,Standard,Men's Sports Shoes,Footwear,4140,1,0.0,4140,Multan,Punjab
+PK-100610,2025-03-26,2025-03-31,Standard,Men's Sports Shoes,Footwear,9340,2,0.15,15878,Lahore,Punjab
+PK-100611,2025-03-28,2025-03-30,Express,Women's 3-Piece Lawn Suit,Clothing,8680,1,0.2,6944,Sukkur,Sindh
+PK-100612,2025-03-28,2025-03-31,Standard,Yoga Mat,Sports & Outdoors,2130,2,0.1,3834,Gujranwala,Punjab
+PK-100613,2025-03-29,2025-03-30,Express,Yoga Mat,Sports & Outdoors,3020,1,0.15,2567,Rawalpindi,Punjab
+PK-100614,2025-03-29,2025-04-05,Economy,Men's Polo Shirt,Clothing,2430,2,0.1,4374,Hyderabad,Sindh
+PK-100615,2025-03-29,2025-03-30,Express,Notebook Pack (6 pcs),Books & Stationery,1060,2,0.3,1484,Lahore,Punjab
+PK-100616,2025-03-30,2025-04-01,Express,Men's Lawn Kurta,Clothing,3150,1,0.1,2835,Rawalpindi,Punjab
+PK-100617,2025-03-31,2025-04-04,Standard,Samsung Galaxy A15,Electronics,43770,1,0.15,37204,Karachi,Sindh
+PK-100618,2025-03-31,2025-04-04,Standard,Air Fryer,Home & Kitchen,18140,3,0.25,40815,Sialkot,Punjab
+PK-100619,2025-03-31,2025-04-03,Standard,Baby Lotion,Baby & Kids,1000,2,0.1,1800,Gujranwala,Punjab
+PK-100620,2025-04-01,2025-04-09,Economy,Infinix Hot 40,Electronics,32100,1,0.1,28890,Bahawalpur,Punjab
+PK-100621,2025-04-02,2025-04-04,Express,Men's Lawn Kurta,Clothing,2910,1,0.25,2182,Sialkot,Punjab
+PK-100622,2025-04-02,2025-04-07,Standard,Non-Stick Cookware Set,Home & Kitchen,12540,1,0.1,11286,Mardan,Khyber Pakhtunkhwa
+PK-100623,2025-04-02,2025-04-05,Standard,O-Level Textbook,Books & Stationery,3420,2,0.0,6840,Lahore,Punjab
+PK-100624,2025-04-02,2025-04-08,Economy,"Haier 32"" LED TV",Electronics,56390,1,0.15,47932,Abbottabad,Khyber Pakhtunkhwa
+PK-100625,2025-04-03,2025-04-04,Express,Bridal Embroidered Dupatta,Clothing,7310,1,0.0,7310,Faisalabad,Punjab
+PK-100626,2025-04-04,2025-04-05,Express,Cricket Bat (English Willow),Sports & Outdoors,22380,1,0.0,22380,Islamabad,Islamabad Capital Territory
+PK-100627,2025-04-05,2025-04-10,Economy,Men's Polo Shirt,Clothing,3200,2,0.15,5440,Faisalabad,Punjab
+PK-100628,2025-04-08,2025-04-09,Express,Men's Lawn Kurta,Clothing,3290,2,0.15,5593,Lahore,Punjab
+PK-100629,2025-04-08,2025-04-10,Express,Men's Lawn Kurta,Clothing,2840,1,0.0,2840,Lahore,Punjab
+PK-100630,2025-04-08,2025-04-11,Standard,Bridal Embroidered Dupatta,Clothing,9180,1,0.1,8262,Lahore,Punjab
+PK-100631,2025-04-09,2025-04-13,Standard,Peshawari Chappal,Footwear,3320,1,0.05,3154,Karachi,Sindh
+PK-100632,2025-04-10,2025-04-17,Economy,Basmati Rice 5kg,Grocery,2100,1,0.1,1890,Rawalpindi,Punjab
+PK-100633,2025-04-11,2025-04-12,Express,Face Wash,Beauty & Personal Care,760,1,0.15,646,Sukkur,Sindh
+PK-100634,2025-04-11,2025-04-16,Standard,Perfume for Men 100ml,Beauty & Personal Care,4260,1,0.05,4047,Multan,Punjab
+PK-100635,2025-04-11,2025-04-12,Express,Baby Stroller,Baby & Kids,15310,1,0.0,15310,Rawalpindi,Punjab
+PK-100636,2025-04-11,2025-04-16,Standard,Bridal Embroidered Dupatta,Clothing,6640,2,0.0,13280,Islamabad,Islamabad Capital Territory
+PK-100637,2025-04-11,2025-04-18,Economy,Bridal Embroidered Dupatta,Clothing,10080,1,0.0,10080,Islamabad,Islamabad Capital Territory
+PK-100638,2025-04-13,2025-04-16,Standard,Green Tea Pack,Grocery,970,2,0.15,1649,Lahore,Punjab
+PK-100639,2025-04-13,2025-04-21,Economy,Women's 3-Piece Lawn Suit,Clothing,4560,1,0.05,4332,Gujranwala,Punjab
+PK-100640,2025-04-14,2025-04-15,Express,Lipstick Set,Beauty & Personal Care,1360,1,0.0,1360,Karachi,Sindh
+PK-100641,2025-04-15,2025-04-20,Standard,Football (Size 5),Sports & Outdoors,2100,1,0.0,2100,Peshawar,Khyber Pakhtunkhwa
+PK-100642,2025-04-15,2025-04-18,Standard,Wireless Earbuds,Electronics,2500,2,0.15,4250,Hyderabad,Sindh
+PK-100643,2025-04-16,2025-04-21,Economy,Peshawari Chappal,Footwear,3920,2,0.0,7840,Faisalabad,Punjab
+PK-100644,2025-04-18,2025-04-22,Standard,Men's Lawn Kurta,Clothing,2330,1,0.1,2097,Sialkot,Punjab
+PK-100645,2025-04-19,2025-04-24,Standard,Smart Watch,Electronics,7090,2,0.05,13471,Lahore,Punjab
+PK-100646,2025-04-22,2025-04-22,Same Day,Women's Khussa,Footwear,4490,1,0.0,4490,Sukkur,Sindh
+PK-100647,2025-04-23,2025-04-28,Standard,Men's Shalwar Kameez,Clothing,7130,2,0.0,14260,Peshawar,Khyber Pakhtunkhwa
+PK-100648,2025-04-23,2025-04-28,Standard,Urdu Novel,Books & Stationery,860,1,0.0,860,Quetta,Balochistan
+PK-100649,2025-04-23,2025-04-27,Standard,Dates (Ajwa) 1kg,Grocery,3340,1,0.0,3340,Multan,Punjab
+PK-100650,2025-04-24,2025-05-02,Economy,Urdu Novel,Books & Stationery,1160,1,0.1,1044,Gujranwala,Punjab
+PK-100651,2025-04-25,2025-04-30,Standard,Men's Shalwar Kameez,Clothing,6800,3,0.1,18360,Gilgit,Gilgit-Baltistan
+PK-100652,2025-04-26,2025-04-29,Standard,Men's Shalwar Kameez,Clothing,6610,1,0.0,6610,Islamabad,Islamabad Capital Territory
+PK-100653,2025-04-26,2025-05-01,Standard,Women's 3-Piece Lawn Suit,Clothing,4260,2,0.05,8094,Gujranwala,Punjab
+PK-100654,2025-04-26,2025-05-01,Standard,Power Bank 20000mAh,Electronics,3870,1,0.0,3870,Hyderabad,Sindh
+PK-100655,2025-04-26,2025-04-29,Standard,Honey 1kg,Grocery,2800,1,0.0,2800,Islamabad,Islamabad Capital Territory
+PK-100656,2025-04-26,2025-04-30,Standard,Bridal Embroidered Dupatta,Clothing,16440,1,0.1,14796,Abbottabad,Khyber Pakhtunkhwa
+PK-100657,2025-04-27,2025-05-01,Standard,Women's 3-Piece Lawn Suit,Clothing,8790,4,0.1,31644,Islamabad,Islamabad Capital Territory
+PK-100658,2025-04-29,2025-05-04,Standard,School Bag,Books & Stationery,2170,2,0.1,3906,Faisalabad,Punjab
+PK-100659,2025-04-30,2025-05-08,Economy,Bridal Embroidered Dupatta,Clothing,12890,1,0.0,12890,Karachi,Sindh
+PK-100660,2025-05-01,2025-05-05,Standard,Infinix Hot 40,Electronics,29250,1,0.05,27788,Lahore,Punjab
+PK-100661,2025-05-03,2025-05-06,Standard,Bluetooth Speaker,Electronics,7050,1,0.0,7050,Gujranwala,Punjab
+PK-100662,2025-05-03,2025-05-08,Economy,Face Wash,Beauty & Personal Care,1320,1,0.2,1056,Islamabad,Islamabad Capital Territory
+PK-100663,2025-05-04,2025-05-09,Economy,Dumbbell Set 20kg,Sports & Outdoors,8000,1,0.05,7600,Islamabad,Islamabad Capital Territory
+PK-100664,2025-05-05,2025-05-07,Express,Men's Lawn Kurta,Clothing,2470,1,0.15,2100,Lahore,Punjab
+PK-100665,2025-05-05,2025-05-10,Standard,Green Tea Pack,Grocery,880,1,0.0,880,Rawalpindi,Punjab
+PK-100666,2025-05-06,2025-05-09,Standard,School Bag,Books & Stationery,3190,2,0.0,6380,Quetta,Balochistan
+PK-100667,2025-05-06,2025-05-11,Standard,School Bag,Books & Stationery,4560,1,0.1,4104,Sukkur,Sindh
+PK-100668,2025-05-08,2025-05-12,Standard,Women's 3-Piece Lawn Suit,Clothing,5540,3,0.0,16620,Karachi,Sindh
+PK-100669,2025-05-09,2025-05-12,Standard,Xiaomi Redmi Note 13,Electronics,60250,1,0.05,57238,Faisalabad,Punjab
+PK-100670,2025-05-10,2025-05-11,Express,Basmati Rice 5kg,Grocery,1950,3,0.05,5558,Islamabad,Islamabad Capital Territory
+PK-100671,2025-05-11,2025-05-14,Standard,Kids Cotton T-Shirt,Clothing,960,2,0.2,1536,Faisalabad,Punjab
+PK-100672,2025-05-11,2025-05-13,Express,Dinner Set 72 Pcs,Home & Kitchen,10110,3,0.0,30330,Islamabad,Islamabad Capital Territory
+PK-100673,2025-05-11,2025-05-14,Standard,Football (Size 5),Sports & Outdoors,1600,1,0.15,1360,Islamabad,Islamabad Capital Territory
+PK-100674,2025-05-13,2025-05-18,Standard,Power Bank 20000mAh,Electronics,4340,1,0.0,4340,Islamabad,Islamabad Capital Territory
+PK-100675,2025-05-14,2025-05-14,Same Day,Yoga Mat,Sports & Outdoors,2980,1,0.0,2980,Faisalabad,Punjab
+PK-100676,2025-05-16,2025-05-21,Economy,Honey 1kg,Grocery,2140,4,0.05,8132,Rawalpindi,Punjab
+PK-100677,2025-05-16,2025-05-19,Standard,Lipstick Set,Beauty & Personal Care,1130,1,0.0,1130,Islamabad,Islamabad Capital Territory
+PK-100678,2025-05-16,2025-05-17,Express,Men's Sports Shoes,Footwear,4290,1,0.2,3432,Gujranwala,Punjab
+PK-100679,2025-05-18,2025-05-22,Standard,Olive Oil 1L,Grocery,1930,2,0.15,3281,Hyderabad,Sindh
+PK-100680,2025-05-20,2025-05-25,Standard,Electric Kettle,Home & Kitchen,5160,1,0.2,4128,Lahore,Punjab
+PK-100681,2025-05-20,2025-05-21,Express,Cricket Bat (English Willow),Sports & Outdoors,30570,1,0.2,24456,Quetta,Balochistan
+PK-100682,2025-05-20,2025-05-23,Standard,O-Level Textbook,Books & Stationery,1640,1,0.05,1558,Sialkot,Punjab
+PK-100683,2025-05-20,2025-05-23,Standard,Cricket Bat (English Willow),Sports & Outdoors,25880,1,0.0,25880,Karachi,Sindh
+PK-100684,2025-05-21,2025-05-25,Standard,Men's Shalwar Kameez,Clothing,6320,2,0.1,11376,Faisalabad,Punjab
+PK-100685,2025-05-22,2025-05-26,Standard,Power Bank 20000mAh,Electronics,6490,1,0.0,6490,Lahore,Punjab
+PK-100686,2025-05-23,2025-05-28,Standard,Women's 3-Piece Lawn Suit,Clothing,5590,1,0.1,5031,Peshawar,Khyber Pakhtunkhwa
+PK-100687,2025-05-24,2025-05-29,Standard,Kids School Shoes,Footwear,2630,1,0.0,2630,Lahore,Punjab
+PK-100688,2025-05-28,2025-06-03,Economy,Non-Stick Cookware Set,Home & Kitchen,8900,1,0.05,8455,Multan,Punjab
+PK-100689,2025-05-29,2025-05-31,Express,Air Fryer,Home & Kitchen,22140,1,0.0,22140,Lahore,Punjab
+PK-100690,2025-05-30,2025-06-04,Standard,Bridal Embroidered Dupatta,Clothing,14740,3,0.0,44220,Rawalpindi,Punjab
+PK-100691,2025-05-31,2025-06-03,Standard,Dumbbell Set 20kg,Sports & Outdoors,8090,1,0.0,8090,Mardan,Khyber Pakhtunkhwa
+PK-100692,2025-06-01,2025-06-03,Express,Green Tea Pack,Grocery,630,1,0.0,630,Lahore,Punjab
+PK-100693,2025-06-01,2025-06-04,Standard,Women's 3-Piece Lawn Suit,Clothing,7860,1,0.0,7860,Sialkot,Punjab
+PK-100694,2025-06-01,2025-06-03,Express,Lipstick Set,Beauty & Personal Care,2690,3,0.0,8070,Gwadar,Balochistan
+PK-100695,2025-06-03,2025-06-04,Same Day,Perfume for Men 100ml,Beauty & Personal Care,5100,2,0.0,10200,Sialkot,Punjab
+PK-100696,2025-06-03,2025-06-06,Standard,Non-Stick Cookware Set,Home & Kitchen,10510,1,0.05,9984,Karachi,Sindh
+PK-100697,2025-06-03,2025-06-06,Standard,Men's Lawn Kurta,Clothing,3520,1,0.0,3520,Gujranwala,Punjab
+PK-100698,2025-06-03,2025-06-06,Standard,Urdu Novel,Books & Stationery,1170,4,0.1,4212,Karachi,Sindh
+PK-100699,2025-06-04,2025-06-07,Standard,Baby Diapers (Pack of 60),Baby & Kids,3040,3,0.2,7296,Islamabad,Islamabad Capital Territory
+PK-100700,2025-06-04,2025-06-07,Standard,Lipstick Set,Beauty & Personal Care,2530,1,0.2,2024,Sialkot,Punjab
+PK-100701,2025-06-06,2025-06-13,Economy,Green Tea Pack,Grocery,1180,3,0.1,3186,Peshawar,Khyber Pakhtunkhwa
+PK-100702,2025-06-06,2025-06-11,Standard,Baby Stroller,Baby & Kids,13170,1,0.2,10536,Rawalpindi,Punjab
+PK-100703,2025-06-07,2025-06-08,Express,Women's Khaddar Shawl,Clothing,3700,1,0.3,2590,Lahore,Punjab
+PK-100704,2025-06-08,2025-06-10,Express,Face Wash,Beauty & Personal Care,800,2,0.1,1440,Gujranwala,Punjab
+PK-100705,2025-06-08,2025-06-13,Standard,Peshawari Chappal,Footwear,2900,1,0.15,2465,Peshawar,Khyber Pakhtunkhwa
+PK-100706,2025-06-08,2025-06-13,Standard,Baby Stroller,Baby & Kids,11620,1,0.15,9877,Islamabad,Islamabad Capital Territory
+PK-100707,2025-06-09,2025-06-14,Standard,"Haier 32"" LED TV",Electronics,43380,1,0.1,39042,Sukkur,Sindh
+PK-100708,2025-06-09,2025-06-10,Express,Bridal Embroidered Dupatta,Clothing,11130,3,0.15,28382,Lahore,Punjab
+PK-100709,2025-06-10,2025-06-14,Standard,Olive Oil 1L,Grocery,2080,1,0.2,1664,Karachi,Sindh
+PK-100710,2025-06-11,2025-06-13,Express,Men's Shalwar Kameez,Clothing,4560,2,0.05,8664,Multan,Punjab
+PK-100711,2025-06-12,2025-06-19,Economy,Dumbbell Set 20kg,Sports & Outdoors,9860,2,0.0,19720,Sargodha,Punjab
+PK-100712,2025-06-12,2025-06-13,Same Day,Men's Polo Shirt,Clothing,1990,1,0.1,1791,Lahore,Punjab
+PK-100713,2025-06-13,2025-06-18,Economy,Baby Stroller,Baby & Kids,14920,5,0.0,74600,Lahore,Punjab
+PK-100714,2025-06-14,2025-06-15,Same Day,Olive Oil 1L,Grocery,3330,2,0.0,6660,Karachi,Sindh
+PK-100715,2025-06-14,2025-06-22,Economy,Kids Cotton T-Shirt,Clothing,1370,1,0.0,1370,Sialkot,Punjab
+PK-100716,2025-06-16,2025-06-21,Economy,Badminton Racket Pair,Sports & Outdoors,3230,1,0.0,3230,Lahore,Punjab
+PK-100717,2025-06-18,2025-06-19,Express,Women's Khaddar Shawl,Clothing,3710,3,0.05,10574,Rawalpindi,Punjab
+PK-100718,2025-06-19,2025-06-27,Economy,Rice Cooker,Home & Kitchen,7450,5,0.1,33525,Gilgit,Gilgit-Baltistan
+PK-100719,2025-06-19,2025-06-24,Economy,Sunblock SPF 50,Beauty & Personal Care,2210,1,0.1,1989,Karachi,Sindh
+PK-100720,2025-06-20,2025-06-23,Standard,Notebook Pack (6 pcs),Books & Stationery,860,1,0.0,860,Rawalpindi,Punjab
+PK-100721,2025-06-22,2025-06-24,Express,Infinix Hot 40,Electronics,31570,1,0.0,31570,Rawalpindi,Punjab
+PK-100722,2025-06-23,2025-06-24,Express,Men's Lawn Kurta,Clothing,3990,1,0.1,3591,Quetta,Balochistan
+PK-100723,2025-06-24,2025-07-01,Economy,Hair Dryer,Beauty & Personal Care,3790,1,0.0,3790,Lahore,Punjab
+PK-100724,2025-06-25,2025-06-30,Standard,Bed Sheet Set (King),Home & Kitchen,6140,3,0.0,18420,Islamabad,Islamabad Capital Territory
+PK-100725,2025-06-25,2025-07-01,Economy,Kids School Shoes,Footwear,2150,3,0.1,5805,Karachi,Sindh
+PK-100726,2025-06-26,2025-06-26,Same Day,Xiaomi Redmi Note 13,Electronics,52710,1,0.0,52710,Hyderabad,Sindh
+PK-100727,2025-06-26,2025-07-02,Economy,Women's Khaddar Shawl,Clothing,5310,2,0.0,10620,Quetta,Balochistan
+PK-100728,2025-06-26,2025-06-30,Standard,Basmati Rice 5kg,Grocery,1930,1,0.0,1930,Karachi,Sindh
+PK-100729,2025-06-27,2025-06-28,Express,Infinix Hot 40,Electronics,32840,1,0.05,31198,Islamabad,Islamabad Capital Territory
+PK-100730,2025-06-29,2025-06-30,Same Day,Bridal Embroidered Dupatta,Clothing,10920,1,0.0,10920,Sukkur,Sindh
+PK-100731,2025-06-29,2025-07-07,Economy,Honey 1kg,Grocery,2560,1,0.05,2432,Karachi,Sindh
+PK-100732,2025-06-30,2025-07-08,Economy,Xiaomi Redmi Note 13,Electronics,60830,1,0.0,60830,Lahore,Punjab
+PK-100733,2025-07-01,2025-07-03,Express,Cricket Bat (English Willow),Sports & Outdoors,15250,2,0.0,30500,Rawalpindi,Punjab
+PK-100734,2025-07-01,2025-07-02,Express,Men's Shalwar Kameez,Clothing,4070,3,0.0,12210,Lahore,Punjab
+PK-100735,2025-07-02,2025-07-05,Standard,Basmati Rice 5kg,Grocery,2520,1,0.1,2268,Lahore,Punjab
+PK-100736,2025-07-02,2025-07-10,Economy,Cricket Bat (English Willow),Sports & Outdoors,25520,1,0.0,25520,Islamabad,Islamabad Capital Territory
+PK-100737,2025-07-03,2025-07-07,Standard,Olive Oil 1L,Grocery,2960,2,0.1,5328,Karachi,Sindh
+PK-100738,2025-07-04,2025-07-05,Express,Men's Lawn Kurta,Clothing,2360,2,0.0,4720,Rawalpindi,Punjab
+PK-100739,2025-07-04,2025-07-04,Same Day,Electric Kettle,Home & Kitchen,3150,4,0.0,12600,Peshawar,Khyber Pakhtunkhwa
+PK-100740,2025-07-05,2025-07-08,Standard,Yoga Mat,Sports & Outdoors,2930,1,0.0,2930,Faisalabad,Punjab
+PK-100741,2025-07-05,2025-07-08,Standard,Women's 3-Piece Lawn Suit,Clothing,4760,2,0.05,9044,Karachi,Sindh
+PK-100742,2025-07-07,2025-07-11,Standard,Women's 3-Piece Lawn Suit,Clothing,4850,2,0.0,9700,Gujranwala,Punjab
+PK-100743,2025-07-08,2025-07-14,Economy,Infinix Hot 40,Electronics,34230,1,0.1,30807,Karachi,Sindh
+PK-100744,2025-07-09,2025-07-11,Express,Baby Diapers (Pack of 60),Baby & Kids,2660,3,0.15,6783,Hyderabad,Sindh
+PK-100745,2025-07-10,2025-07-13,Standard,Hair Dryer,Beauty & Personal Care,3060,2,0.1,5508,Lahore,Punjab
+PK-100746,2025-07-11,2025-07-12,Express,Face Wash,Beauty & Personal Care,480,1,0.05,456,Quetta,Balochistan
+PK-100747,2025-07-12,2025-07-17,Standard,Cricket Bat (English Willow),Sports & Outdoors,17800,1,0.05,16910,Lahore,Punjab
+PK-100748,2025-07-15,2025-07-21,Economy,Electric Kettle,Home & Kitchen,4470,4,0.05,16986,Karachi,Sindh
+PK-100749,2025-07-15,2025-07-18,Standard,Peshawari Chappal,Footwear,5110,5,0.0,25550,Rawalpindi,Punjab
+PK-100750,2025-07-15,2025-07-19,Standard,Women's Khussa,Footwear,2100,5,0.1,9450,Karachi,Sindh
+PK-100751,2025-07-16,2025-07-20,Standard,Face Wash,Beauty & Personal Care,640,1,0.1,576,Lahore,Punjab
+PK-100752,2025-07-17,2025-07-19,Express,Men's Lawn Kurta,Clothing,3950,1,0.0,3950,Peshawar,Khyber Pakhtunkhwa
+PK-100753,2025-07-17,2025-07-20,Standard,Olive Oil 1L,Grocery,2420,2,0.15,4114,Gujranwala,Punjab
+PK-100754,2025-07-18,2025-07-19,Same Day,O-Level Textbook,Books & Stationery,2950,2,0.1,5310,Karachi,Sindh
+PK-100755,2025-07-18,2025-07-21,Standard,Women's Khaddar Shawl,Clothing,5730,1,0.0,5730,Sukkur,Sindh
+PK-100756,2025-07-19,2025-07-24,Standard,Air Fryer,Home & Kitchen,18080,2,0.15,30736,Quetta,Balochistan
+PK-100757,2025-07-20,2025-07-24,Standard,Bluetooth Speaker,Electronics,5370,1,0.0,5370,Sialkot,Punjab
+PK-100758,2025-07-20,2025-07-24,Standard,Kids Toy Car Set,Baby & Kids,3180,1,0.0,3180,Peshawar,Khyber Pakhtunkhwa
+PK-100759,2025-07-23,2025-07-29,Economy,Dates (Ajwa) 1kg,Grocery,2680,1,0.0,2680,Multan,Punjab
+PK-100760,2025-07-23,2025-07-27,Standard,Green Tea Pack,Grocery,1150,1,0.05,1092,Rawalpindi,Punjab
+PK-100761,2025-07-26,2025-08-02,Economy,Women's Khaddar Shawl,Clothing,4260,1,0.0,4260,Multan,Punjab
+PK-100762,2025-07-26,2025-07-30,Standard,Smart Watch,Electronics,9290,4,0.15,31586,Bahawalpur,Punjab
+PK-100763,2025-07-26,2025-07-29,Standard,Men's Lawn Kurta,Clothing,5240,2,0.0,10480,Karachi,Sindh
+PK-100764,2025-07-26,2025-07-30,Standard,"Haier 32"" LED TV",Electronics,50120,1,0.0,50120,Lahore,Punjab
+PK-100765,2025-07-26,2025-07-29,Standard,Power Bank 20000mAh,Electronics,4820,1,0.05,4579,Karachi,Sindh
+PK-100766,2025-07-27,2025-07-27,Same Day,"Haier 32"" LED TV",Electronics,46360,1,0.0,46360,Mardan,Khyber Pakhtunkhwa
+PK-100767,2025-07-27,2025-07-29,Express,Baby Lotion,Baby & Kids,1190,1,0.1,1071,Islamabad,Islamabad Capital Territory
+PK-100768,2025-07-28,2025-07-31,Standard,"Haier 32"" LED TV",Electronics,51110,1,0.0,51110,Multan,Punjab
+PK-100769,2025-07-30,2025-08-01,Express,Power Bank 20000mAh,Electronics,4140,1,0.2,3312,Gujranwala,Punjab
+PK-100770,2025-07-30,2025-07-31,Express,Notebook Pack (6 pcs),Books & Stationery,1480,2,0.05,2812,Gilgit,Gilgit-Baltistan
+PK-100771,2025-07-30,2025-08-05,Economy,Air Fryer,Home & Kitchen,19370,3,0.0,58110,Karachi,Sindh
+PK-100772,2025-07-30,2025-08-05,Economy,Yoga Mat,Sports & Outdoors,2350,3,0.0,7050,Quetta,Balochistan
+PK-100773,2025-07-31,2025-08-01,Express,Dinner Set 72 Pcs,Home & Kitchen,7540,1,0.0,7540,Sukkur,Sindh
+PK-100774,2025-07-31,2025-08-08,Economy,Olive Oil 1L,Grocery,2560,1,0.15,2176,Karachi,Sindh
+PK-100775,2025-07-31,2025-07-31,Same Day,Face Wash,Beauty & Personal Care,460,1,0.05,437,Hyderabad,Sindh
+PK-100776,2025-08-01,2025-08-05,Standard,Non-Stick Cookware Set,Home & Kitchen,6060,1,0.0,6060,Lahore,Punjab
+PK-100777,2025-08-01,2025-08-03,Express,Hair Dryer,Beauty & Personal Care,4390,2,0.0,8780,Multan,Punjab
+PK-100778,2025-08-02,2025-08-06,Standard,Women's Khussa,Footwear,2020,1,0.1,1818,Rawalpindi,Punjab
+PK-100779,2025-08-02,2025-08-03,Same Day,Women's Khaddar Shawl,Clothing,3460,2,0.0,6920,Lahore,Punjab
+PK-100780,2025-08-02,2025-08-09,Economy,Peshawari Chappal,Footwear,4470,1,0.1,4023,Karachi,Sindh
+PK-100781,2025-08-03,2025-08-06,Standard,Smart Watch,Electronics,7430,5,0.1,33435,Karachi,Sindh
+PK-100782,2025-08-03,2025-08-10,Economy,Urdu Novel,Books & Stationery,1800,5,0.0,9000,Karachi,Sindh
+PK-100783,2025-08-03,2025-08-08,Economy,Men's Shalwar Kameez,Clothing,7120,1,0.05,6764,Multan,Punjab
+PK-100784,2025-08-04,2025-08-08,Standard,Bluetooth Speaker,Electronics,6430,3,0.0,19290,Lahore,Punjab
+PK-100785,2025-08-04,2025-08-05,Express,Women's 3-Piece Lawn Suit,Clothing,9300,1,0.0,9300,Lahore,Punjab
+PK-100786,2025-08-04,2025-08-10,Economy,School Bag,Books & Stationery,4750,2,0.2,7600,Peshawar,Khyber Pakhtunkhwa
+PK-100787,2025-08-04,2025-08-09,Economy,Women's Khaddar Shawl,Clothing,3620,3,0.05,10317,Peshawar,Khyber Pakhtunkhwa
+PK-100788,2025-08-05,2025-08-10,Standard,Perfume for Men 100ml,Beauty & Personal Care,7370,3,0.1,19899,Rawalpindi,Punjab
+PK-100789,2025-08-06,2025-08-10,Standard,Basmati Rice 5kg,Grocery,1820,3,0.05,5187,Abbottabad,Khyber Pakhtunkhwa
+PK-100790,2025-08-07,2025-08-08,Express,"Haier 32"" LED TV",Electronics,52950,1,0.0,52950,Lahore,Punjab
+PK-100791,2025-08-07,2025-08-10,Standard,Badminton Racket Pair,Sports & Outdoors,4800,3,0.1,12960,Gujranwala,Punjab
+PK-100792,2025-08-07,2025-08-11,Standard,Kids Cotton T-Shirt,Clothing,820,2,0.05,1558,Karachi,Sindh
+PK-100793,2025-08-11,2025-08-15,Standard,Men's Lawn Kurta,Clothing,3100,1,0.2,2480,Peshawar,Khyber Pakhtunkhwa
+PK-100794,2025-08-11,2025-08-15,Standard,Perfume for Men 100ml,Beauty & Personal Care,8710,1,0.2,6968,Gwadar,Balochistan
+PK-100795,2025-08-11,2025-08-13,Express,Dates (Ajwa) 1kg,Grocery,3350,2,0.2,5360,Gujranwala,Punjab
+PK-100796,2025-08-12,2025-08-14,Express,Kids Cotton T-Shirt,Clothing,980,2,0.2,1568,Faisalabad,Punjab
+PK-100797,2025-08-12,2025-08-14,Express,Air Fryer,Home & Kitchen,13440,1,0.25,10080,Faisalabad,Punjab
+PK-100798,2025-08-12,2025-08-13,Same Day,Men's Shalwar Kameez,Clothing,5160,4,0.1,18576,Lahore,Punjab
+PK-100799,2025-08-13,2025-08-18,Standard,Bed Sheet Set (King),Home & Kitchen,7240,2,0.2,11584,Multan,Punjab
+PK-100800,2025-08-13,2025-08-18,Standard,Dinner Set 72 Pcs,Home & Kitchen,13940,1,0.1,12546,Hyderabad,Sindh
+PK-100801,2025-08-14,2025-08-18,Standard,Rice Cooker,Home & Kitchen,6680,1,0.15,5678,Gilgit,Gilgit-Baltistan
+PK-100802,2025-08-14,2025-08-18,Standard,Dinner Set 72 Pcs,Home & Kitchen,9270,2,0.2,14832,Rawalpindi,Punjab
+PK-100803,2025-08-14,2025-08-18,Standard,Power Bank 20000mAh,Electronics,3640,2,0.15,6188,Karachi,Sindh
+PK-100804,2025-08-15,2025-08-18,Standard,Perfume for Men 100ml,Beauty & Personal Care,5510,1,0.15,4684,Faisalabad,Punjab
+PK-100805,2025-08-15,2025-08-20,Standard,Sunblock SPF 50,Beauty & Personal Care,2830,1,0.25,2122,Karachi,Sindh
+PK-100806,2025-08-15,2025-08-19,Standard,Perfume for Men 100ml,Beauty & Personal Care,7240,2,0.25,10860,Lahore,Punjab
+PK-100807,2025-08-15,2025-08-17,Express,"Haier 32"" LED TV",Electronics,48540,1,0.15,41259,Lahore,Punjab
+PK-100808,2025-08-15,2025-08-17,Express,Women's Khussa,Footwear,3410,3,0.3,7161,Peshawar,Khyber Pakhtunkhwa
+PK-100809,2025-08-15,2025-08-22,Economy,Bridal Embroidered Dupatta,Clothing,11230,1,0.15,9546,Karachi,Sindh
+PK-100810,2025-08-16,2025-08-17,Same Day,"Haier 32"" LED TV",Electronics,51260,1,0.25,38445,Karachi,Sindh
+PK-100811,2025-08-16,2025-08-18,Express,Women's 3-Piece Lawn Suit,Clothing,6610,1,0.1,5949,Karachi,Sindh
+PK-100812,2025-08-16,2025-08-21,Standard,Men's Sports Shoes,Footwear,7590,1,0.1,6831,Sialkot,Punjab
+PK-100813,2025-08-16,2025-08-17,Express,Cricket Bat (English Willow),Sports & Outdoors,19450,2,0.15,33065,Peshawar,Khyber Pakhtunkhwa
+PK-100814,2025-08-18,2025-08-21,Standard,Women's 3-Piece Lawn Suit,Clothing,9140,2,0.0,18280,Karachi,Sindh
+PK-100815,2025-08-18,2025-08-21,Standard,Notebook Pack (6 pcs),Books & Stationery,1170,1,0.05,1112,Karachi,Sindh
+PK-100816,2025-08-22,2025-08-27,Standard,Electric Kettle,Home & Kitchen,2840,2,0.0,5680,Rawalpindi,Punjab
+PK-100817,2025-08-23,2025-08-28,Standard,Football (Size 5),Sports & Outdoors,2210,1,0.05,2100,Lahore,Punjab
+PK-100818,2025-08-23,2025-08-28,Standard,Peshawari Chappal,Footwear,4000,1,0.05,3800,Faisalabad,Punjab
+PK-100819,2025-08-25,2025-08-27,Express,Kids School Shoes,Footwear,3190,1,0.2,2552,Islamabad,Islamabad Capital Territory
+PK-100820,2025-08-26,2025-09-02,Economy,Dinner Set 72 Pcs,Home & Kitchen,12200,1,0.0,12200,Abbottabad,Khyber Pakhtunkhwa
+PK-100821,2025-08-30,2025-08-31,Same Day,Green Tea Pack,Grocery,990,2,0.05,1881,Lahore,Punjab
+PK-100822,2025-08-30,2025-09-01,Express,Kids School Shoes,Footwear,2600,3,0.05,7410,Multan,Punjab
+PK-100823,2025-08-31,2025-09-01,Express,Electric Kettle,Home & Kitchen,4600,2,0.0,9200,Karachi,Sindh
+PK-100824,2025-09-01,2025-09-05,Standard,Rice Cooker,Home & Kitchen,8020,1,0.0,8020,Mardan,Khyber Pakhtunkhwa
+PK-100825,2025-09-02,2025-09-03,Express,Lipstick Set,Beauty & Personal Care,1760,1,0.2,1408,Gwadar,Balochistan
+PK-100826,2025-09-02,2025-09-04,Express,"Haier 32"" LED TV",Electronics,48430,1,0.0,48430,Peshawar,Khyber Pakhtunkhwa
+PK-100827,2025-09-03,2025-09-07,Standard,Non-Stick Cookware Set,Home & Kitchen,6840,2,0.1,12312,Islamabad,Islamabad Capital Territory
+PK-100828,2025-09-04,2025-09-07,Standard,Peshawari Chappal,Footwear,3740,1,0.0,3740,Lahore,Punjab
+PK-100829,2025-09-05,2025-09-11,Economy,Green Tea Pack,Grocery,1040,1,0.1,936,Gujranwala,Punjab
+PK-100830,2025-09-06,2025-09-07,Express,Kids School Shoes,Footwear,4000,2,0.0,8000,Peshawar,Khyber Pakhtunkhwa
+PK-100831,2025-09-07,2025-09-10,Standard,Peshawari Chappal,Footwear,4280,2,0.2,6848,Lahore,Punjab
+PK-100832,2025-09-07,2025-09-09,Express,Kids Toy Car Set,Baby & Kids,1590,1,0.05,1510,Islamabad,Islamabad Capital Territory
+PK-100833,2025-09-08,2025-09-12,Standard,Women's Khussa,Footwear,3640,1,0.0,3640,Islamabad,Islamabad Capital Territory
+PK-100834,2025-09-10,2025-09-15,Standard,Smart Watch,Electronics,11530,2,0.05,21907,Gujranwala,Punjab
+PK-100835,2025-09-10,2025-09-15,Standard,Men's Lawn Kurta,Clothing,3300,1,0.05,3135,Peshawar,Khyber Pakhtunkhwa
+PK-100836,2025-09-10,2025-09-15,Standard,Wireless Earbuds,Electronics,6630,1,0.0,6630,Multan,Punjab
+PK-100837,2025-09-11,2025-09-12,Express,Samsung Galaxy A15,Electronics,42960,1,0.0,42960,Multan,Punjab
+PK-100838,2025-09-11,2025-09-15,Standard,Men's Sports Shoes,Footwear,3560,1,0.1,3204,Lahore,Punjab
+PK-100839,2025-09-12,2025-09-12,Same Day,Badminton Racket Pair,Sports & Outdoors,2850,1,0.1,2565,Lahore,Punjab
+PK-100840,2025-09-14,2025-09-17,Standard,Lipstick Set,Beauty & Personal Care,1230,1,0.0,1230,Karachi,Sindh
+PK-100841,2025-09-14,2025-09-15,Express,Infinix Hot 40,Electronics,35030,1,0.1,31527,Quetta,Balochistan
+PK-100842,2025-09-16,2025-09-17,Express,Air Fryer,Home & Kitchen,16520,1,0.0,16520,Islamabad,Islamabad Capital Territory
+PK-100843,2025-09-16,2025-09-17,Express,Bluetooth Speaker,Electronics,4500,1,0.0,4500,Islamabad,Islamabad Capital Territory
+PK-100844,2025-09-16,2025-09-18,Express,Honey 1kg,Grocery,2830,1,0.05,2688,Lahore,Punjab
+PK-100845,2025-09-17,2025-09-24,Economy,Smart Watch,Electronics,8250,1,0.0,8250,Lahore,Punjab
+PK-100846,2025-09-18,2025-09-20,Express,Dinner Set 72 Pcs,Home & Kitchen,10060,3,0.0,30180,Faisalabad,Punjab
+PK-100847,2025-09-20,2025-09-22,Express,Women's Khaddar Shawl,Clothing,2980,4,0.05,11324,Lahore,Punjab
+PK-100848,2025-09-20,2025-09-22,Express,Face Wash,Beauty & Personal Care,1070,1,0.0,1070,Karachi,Sindh
+PK-100849,2025-09-20,2025-09-23,Standard,Bridal Embroidered Dupatta,Clothing,7640,1,0.0,7640,Hyderabad,Sindh
+PK-100850,2025-09-21,2025-09-25,Standard,Football (Size 5),Sports & Outdoors,3830,2,0.1,6894,Lahore,Punjab
+PK-100851,2025-09-21,2025-09-24,Standard,Women's 3-Piece Lawn Suit,Clothing,4710,5,0.05,22372,Lahore,Punjab
+PK-100852,2025-09-22,2025-09-26,Standard,Dates (Ajwa) 1kg,Grocery,4470,3,0.1,12069,Islamabad,Islamabad Capital Territory
+PK-100853,2025-09-22,2025-09-26,Standard,Kids School Shoes,Footwear,3770,1,0.05,3582,Gujranwala,Punjab
+PK-100854,2025-09-22,2025-09-27,Standard,Football (Size 5),Sports & Outdoors,1880,1,0.0,1880,Lahore,Punjab
+PK-100855,2025-09-22,2025-09-24,Express,School Bag,Books & Stationery,2090,1,0.0,2090,Hyderabad,Sindh
+PK-100856,2025-09-22,2025-09-25,Standard,Baby Lotion,Baby & Kids,1450,3,0.1,3915,Abbottabad,Khyber Pakhtunkhwa
+PK-100857,2025-09-23,2025-09-30,Economy,Women's 3-Piece Lawn Suit,Clothing,6280,2,0.0,12560,Multan,Punjab
+PK-100858,2025-09-24,2025-09-29,Standard,Men's Shalwar Kameez,Clothing,5840,1,0.0,5840,Islamabad,Islamabad Capital Territory
+PK-100859,2025-09-24,2025-09-26,Express,Women's 3-Piece Lawn Suit,Clothing,3640,1,0.1,3276,Hyderabad,Sindh
+PK-100860,2025-09-24,2025-09-28,Standard,Men's Shalwar Kameez,Clothing,4250,1,0.1,3825,Islamabad,Islamabad Capital Territory
+PK-100861,2025-09-25,2025-09-28,Standard,Air Fryer,Home & Kitchen,17570,2,0.05,33383,Islamabad,Islamabad Capital Territory
+PK-100862,2025-09-26,2025-09-29,Standard,Baby Lotion,Baby & Kids,1400,1,0.0,1400,Rawalpindi,Punjab
+PK-100863,2025-09-26,2025-09-27,Express,Baby Lotion,Baby & Kids,840,2,0.0,1680,Lahore,Punjab
+PK-100864,2025-09-27,2025-09-30,Standard,Electric Kettle,Home & Kitchen,4890,2,0.0,9780,Karachi,Sindh
+PK-100865,2025-09-27,2025-10-03,Economy,Face Wash,Beauty & Personal Care,1080,2,0.1,1944,Islamabad,Islamabad Capital Territory
+PK-100866,2025-09-28,2025-10-03,Standard,Basmati Rice 5kg,Grocery,1800,1,0.0,1800,Karachi,Sindh
+PK-100867,2025-09-28,2025-09-29,Express,Honey 1kg,Grocery,2500,3,0.0,7500,Islamabad,Islamabad Capital Territory
+PK-100868,2025-09-29,2025-10-03,Standard,Men's Lawn Kurta,Clothing,2980,2,0.0,5960,Rawalpindi,Punjab
+PK-100869,2025-10-01,2025-10-03,Express,Electric Kettle,Home & Kitchen,3990,1,0.05,3790,Abbottabad,Khyber Pakhtunkhwa
+PK-100870,2025-10-03,2025-10-08,Standard,Notebook Pack (6 pcs),Books & Stationery,1400,1,0.05,1330,Karachi,Sindh
+PK-100871,2025-10-03,2025-10-07,Standard,Kids Cotton T-Shirt,Clothing,1230,2,0.0,2460,Faisalabad,Punjab
+PK-100872,2025-10-04,2025-10-09,Standard,Men's Sports Shoes,Footwear,4970,1,0.0,4970,Islamabad,Islamabad Capital Territory
+PK-100873,2025-10-05,2025-10-08,Standard,Baby Stroller,Baby & Kids,15810,1,0.0,15810,Karachi,Sindh
+PK-100874,2025-10-05,2025-10-09,Standard,Baby Stroller,Baby & Kids,14640,1,0.0,14640,Lahore,Punjab
+PK-100875,2025-10-10,2025-10-16,Economy,Dates (Ajwa) 1kg,Grocery,3900,1,0.05,3705,Karachi,Sindh
+PK-100876,2025-10-10,2025-10-15,Standard,Urdu Novel,Books & Stationery,1270,1,0.0,1270,Lahore,Punjab
+PK-100877,2025-10-11,2025-10-15,Standard,Men's Shalwar Kameez,Clothing,4000,2,0.05,7600,Lahore,Punjab
+PK-100878,2025-10-11,2025-10-19,Economy,Kids Cotton T-Shirt,Clothing,1480,1,0.1,1332,Islamabad,Islamabad Capital Territory
+PK-100879,2025-10-11,2025-10-14,Standard,Bed Sheet Set (King),Home & Kitchen,5060,2,0.2,8096,Rawalpindi,Punjab
+PK-100880,2025-10-12,2025-10-15,Standard,Bed Sheet Set (King),Home & Kitchen,4940,1,0.15,4199,Karachi,Sindh
+PK-100881,2025-10-14,2025-10-16,Express,Non-Stick Cookware Set,Home & Kitchen,6620,1,0.0,6620,Karachi,Sindh
+PK-100882,2025-10-14,2025-10-22,Economy,Face Wash,Beauty & Personal Care,1020,1,0.0,1020,Karachi,Sindh
+PK-100883,2025-10-15,2025-10-17,Express,Bridal Embroidered Dupatta,Clothing,13230,2,0.0,26460,Rawalpindi,Punjab
+PK-100884,2025-10-16,2025-10-19,Standard,Cricket Bat (English Willow),Sports & Outdoors,15180,4,0.1,54648,Lahore,Punjab
+PK-100885,2025-10-18,2025-10-23,Economy,Women's Khaddar Shawl,Clothing,5510,1,0.0,5510,Rawalpindi,Punjab
+PK-100886,2025-10-20,2025-10-23,Standard,Women's Khaddar Shawl,Clothing,5460,1,0.0,5460,Lahore,Punjab
+PK-100887,2025-10-20,2025-10-26,Economy,Power Bank 20000mAh,Electronics,3830,1,0.0,3830,Karachi,Sindh
+PK-100888,2025-10-21,2025-10-27,Economy,Men's Lawn Kurta,Clothing,4490,1,0.0,4490,Mardan,Khyber Pakhtunkhwa
+PK-100889,2025-10-21,2025-10-29,Economy,School Bag,Books & Stationery,3140,3,0.1,8478,Karachi,Sindh
+PK-100890,2025-10-23,2025-10-28,Standard,Men's Sports Shoes,Footwear,9500,1,0.05,9025,Karachi,Sindh
+PK-100891,2025-10-23,2025-10-28,Standard,Women's 3-Piece Lawn Suit,Clothing,4850,5,0.05,23038,Karachi,Sindh
+PK-100892,2025-10-24,2025-10-25,Express,Football (Size 5),Sports & Outdoors,2340,2,0.15,3978,Gwadar,Balochistan
+PK-100893,2025-10-24,2025-10-25,Express,Bed Sheet Set (King),Home & Kitchen,5320,1,0.0,5320,Faisalabad,Punjab
+PK-100894,2025-10-25,2025-10-26,Express,Samsung Galaxy A15,Electronics,45490,1,0.0,45490,Faisalabad,Punjab
+PK-100895,2025-10-26,2025-11-02,Economy,Kids Cotton T-Shirt,Clothing,1490,1,0.0,1490,Gwadar,Balochistan
+PK-100896,2025-10-28,2025-10-30,Express,Smart Watch,Electronics,9070,2,0.05,17233,Karachi,Sindh
+PK-100897,2025-10-28,2025-10-31,Standard,Sunblock SPF 50,Beauty & Personal Care,1640,1,0.05,1558,Sargodha,Punjab
+PK-100898,2025-10-28,2025-10-31,Standard,Men's Shalwar Kameez,Clothing,5280,3,0.0,15840,Lahore,Punjab
+PK-100899,2025-10-29,2025-11-01,Standard,Xiaomi Redmi Note 13,Electronics,60440,1,0.15,51374,Faisalabad,Punjab
+PK-100900,2025-10-29,2025-11-03,Standard,Xiaomi Redmi Note 13,Electronics,59090,1,0.0,59090,Islamabad,Islamabad Capital Territory
+PK-100901,2025-10-29,2025-11-03,Standard,Air Fryer,Home & Kitchen,17480,3,0.0,52440,Lahore,Punjab
+PK-100902,2025-10-30,2025-11-07,Economy,Samsung Galaxy A15,Electronics,45750,1,0.05,43462,Abbottabad,Khyber Pakhtunkhwa
+PK-100903,2025-11-01,2025-11-03,Express,School Bag,Books & Stationery,2410,1,0.15,2048,Karachi,Sindh
+PK-100904,2025-11-02,2025-11-03,Express,Bluetooth Speaker,Electronics,8250,2,0.05,15675,Gilgit,Gilgit-Baltistan
+PK-100905,2025-11-02,2025-11-07,Standard,Rice Cooker,Home & Kitchen,8050,1,0.15,6842,Lahore,Punjab
+PK-100906,2025-11-02,2025-11-03,Express,Men's Sports Shoes,Footwear,6930,3,0.0,20790,Multan,Punjab
+PK-100907,2025-11-03,2025-11-09,Economy,Men's Sports Shoes,Footwear,8780,2,0.05,16682,Sargodha,Punjab
+PK-100908,2025-11-03,2025-11-11,Economy,"Haier 32"" LED TV",Electronics,43950,1,0.1,39555,Karachi,Sindh
+PK-100909,2025-11-06,2025-11-08,Express,Urdu Novel,Books & Stationery,1420,1,0.05,1349,Abbottabad,Khyber Pakhtunkhwa
+PK-100910,2025-11-07,2025-11-12,Economy,Dates (Ajwa) 1kg,Grocery,3090,1,0.0,3090,Faisalabad,Punjab
+PK-100911,2025-11-07,2025-11-09,Express,Samsung Galaxy A15,Electronics,43570,1,0.2,34856,Peshawar,Khyber Pakhtunkhwa
+PK-100912,2025-11-08,2025-11-11,Standard,Smart Watch,Electronics,8920,1,0.2,7136,Karachi,Sindh
+PK-100913,2025-11-08,2025-11-14,Economy,Dates (Ajwa) 1kg,Grocery,3550,1,0.2,2840,Rawalpindi,Punjab
+PK-100914,2025-11-09,2025-11-14,Standard,Bed Sheet Set (King),Home & Kitchen,7720,1,0.2,6176,Multan,Punjab
+PK-100915,2025-11-10,2025-11-13,Standard,Bluetooth Speaker,Electronics,4810,1,0.2,3848,Islamabad,Islamabad Capital Territory
+PK-100916,2025-11-10,2025-11-15,Standard,Men's Lawn Kurta,Clothing,4890,2,0.25,7335,Karachi,Sindh
+PK-100917,2025-11-10,2025-11-12,Express,Sunblock SPF 50,Beauty & Personal Care,2700,2,0.15,4590,Lahore,Punjab
+PK-100918,2025-11-10,2025-11-12,Express,Lipstick Set,Beauty & Personal Care,2300,2,0.2,3680,Sialkot,Punjab
+PK-100919,2025-11-10,2025-11-12,Express,Rice Cooker,Home & Kitchen,9100,3,0.1,24570,Karachi,Sindh
+PK-100920,2025-11-11,2025-11-15,Standard,Baby Diapers (Pack of 60),Baby & Kids,2850,1,0.2,2280,Peshawar,Khyber Pakhtunkhwa
+PK-100921,2025-11-11,2025-11-14,Standard,Kids School Shoes,Footwear,2860,1,0.25,2145,Gilgit,Gilgit-Baltistan
+PK-100922,2025-11-11,2025-11-19,Economy,Kids Cotton T-Shirt,Clothing,960,1,0.25,720,Karachi,Sindh
+PK-100923,2025-11-12,2025-11-16,Standard,Peshawari Chappal,Footwear,3330,2,0.15,5661,Karachi,Sindh
+PK-100924,2025-11-12,2025-11-19,Economy,Men's Polo Shirt,Clothing,3260,1,0.15,2771,Multan,Punjab
+PK-100925,2025-11-12,2025-11-16,Standard,Women's 3-Piece Lawn Suit,Clothing,6350,1,0.15,5398,Karachi,Sindh
+PK-100926,2025-11-13,2025-11-15,Express,Infinix Hot 40,Electronics,30730,1,0.1,27657,Faisalabad,Punjab
+PK-100927,2025-11-13,2025-11-14,Express,Women's Khaddar Shawl,Clothing,3260,3,0.1,8802,Peshawar,Khyber Pakhtunkhwa
+PK-100928,2025-11-13,2025-11-21,Economy,Hair Dryer,Beauty & Personal Care,4590,3,0.3,9639,Faisalabad,Punjab
+PK-100929,2025-11-13,2025-11-16,Standard,Samsung Galaxy A15,Electronics,51320,1,0.15,43622,Lahore,Punjab
+PK-100930,2025-11-13,2025-11-20,Economy,Men's Sports Shoes,Footwear,5220,1,0.3,3654,Peshawar,Khyber Pakhtunkhwa
+PK-100931,2025-11-14,2025-11-16,Express,Face Wash,Beauty & Personal Care,1170,5,0.1,5265,Faisalabad,Punjab
+PK-100932,2025-11-14,2025-11-16,Express,Rice Cooker,Home & Kitchen,7650,1,0.2,6120,Lahore,Punjab
+PK-100933,2025-11-14,2025-11-15,Express,Yoga Mat,Sports & Outdoors,3290,1,0.2,2632,Faisalabad,Punjab
+PK-100934,2025-11-14,2025-11-18,Standard,O-Level Textbook,Books & Stationery,2250,1,0.2,1800,Sukkur,Sindh
+PK-100935,2025-11-16,2025-11-19,Standard,Hair Dryer,Beauty & Personal Care,5130,1,0.05,4874,Multan,Punjab
+PK-100936,2025-11-17,2025-11-21,Standard,Wireless Earbuds,Electronics,3270,1,0.0,3270,Islamabad,Islamabad Capital Territory
+PK-100937,2025-11-18,2025-11-23,Standard,Peshawari Chappal,Footwear,3590,1,0.0,3590,Lahore,Punjab
+PK-100938,2025-11-20,2025-11-22,Express,Rice Cooker,Home & Kitchen,8120,1,0.0,8120,Karachi,Sindh
+PK-100939,2025-11-21,2025-11-26,Standard,Women's 3-Piece Lawn Suit,Clothing,7290,2,0.0,14580,Lahore,Punjab
+PK-100940,2025-11-21,2025-11-25,Standard,Infinix Hot 40,Electronics,29500,1,0.05,28025,Karachi,Sindh
+PK-100941,2025-11-21,2025-11-24,Standard,Women's 3-Piece Lawn Suit,Clothing,8650,2,0.0,17300,Gwadar,Balochistan
+PK-100942,2025-11-21,2025-11-25,Standard,Women's Khussa,Footwear,1940,2,0.0,3880,Lahore,Punjab
+PK-100943,2025-11-21,2025-11-24,Standard,Bridal Embroidered Dupatta,Clothing,13140,1,0.05,12483,Gujranwala,Punjab
+PK-100944,2025-11-22,2025-11-24,Express,Smart Watch,Electronics,13850,3,0.05,39472,Karachi,Sindh
+PK-100945,2025-11-24,2025-11-29,Standard,Notebook Pack (6 pcs),Books & Stationery,1280,1,0.05,1216,Lahore,Punjab
+PK-100946,2025-11-24,2025-11-30,Economy,Green Tea Pack,Grocery,1050,1,0.0,1050,Islamabad,Islamabad Capital Territory
+PK-100947,2025-11-25,2025-11-30,Standard,Men's Lawn Kurta,Clothing,4160,1,0.2,3328,Lahore,Punjab
+PK-100948,2025-11-27,2025-11-30,Standard,Honey 1kg,Grocery,3680,2,0.2,5888,Quetta,Balochistan
+PK-100949,2025-11-27,2025-12-02,Economy,Samsung Galaxy A15,Electronics,50520,1,0.2,40416,Mardan,Khyber Pakhtunkhwa
+PK-100950,2025-11-28,2025-12-01,Standard,Green Tea Pack,Grocery,970,2,0.25,1455,Sialkot,Punjab
+PK-100951,2025-11-29,2025-12-03,Standard,Baby Diapers (Pack of 60),Baby & Kids,2560,1,0.2,2048,Karachi,Sindh
+PK-100952,2025-11-29,2025-12-04,Economy,Samsung Galaxy A15,Electronics,51640,1,0.3,36148,Hyderabad,Sindh
+PK-100953,2025-11-29,2025-12-06,Economy,Badminton Racket Pair,Sports & Outdoors,3460,1,0.1,3114,Karachi,Sindh
+PK-100954,2025-11-29,2025-12-01,Express,Kids Toy Car Set,Baby & Kids,3160,1,0.2,2528,Bahawalpur,Punjab
+PK-100955,2025-11-29,2025-12-03,Standard,Dates (Ajwa) 1kg,Grocery,3120,1,0.2,2496,Rawalpindi,Punjab
+PK-100956,2025-11-30,2025-12-01,Express,Kids Toy Car Set,Baby & Kids,1440,2,0.15,2448,Lahore,Punjab
+PK-100957,2025-11-30,2025-12-05,Economy,Bed Sheet Set (King),Home & Kitchen,7320,1,0.1,6588,Karachi,Sindh
+PK-100958,2025-11-30,2025-12-06,Economy,"Haier 32"" LED TV",Electronics,45890,1,0.2,36712,Karachi,Sindh
+PK-100959,2025-12-02,2025-12-07,Standard,School Bag,Books & Stationery,3030,2,0.0,6060,Lahore,Punjab
+PK-100960,2025-12-02,2025-12-07,Standard,Dinner Set 72 Pcs,Home & Kitchen,13570,1,0.15,11534,Bahawalpur,Punjab
+PK-100961,2025-12-02,2025-12-05,Standard,Dinner Set 72 Pcs,Home & Kitchen,8850,1,0.0,8850,Quetta,Balochistan
+PK-100962,2025-12-02,2025-12-05,Standard,Bridal Embroidered Dupatta,Clothing,7910,1,0.0,7910,Sargodha,Punjab
+PK-100963,2025-12-02,2025-12-04,Express,Air Fryer,Home & Kitchen,17320,1,0.05,16454,Karachi,Sindh
+PK-100964,2025-12-03,2025-12-06,Standard,Bluetooth Speaker,Electronics,4310,1,0.1,3879,Faisalabad,Punjab
+PK-100965,2025-12-04,2025-12-08,Standard,Cricket Bat (English Willow),Sports & Outdoors,12510,2,0.0,25020,Lahore,Punjab
+PK-100966,2025-12-04,2025-12-09,Standard,"Haier 32"" LED TV",Electronics,42150,1,0.1,37935,Rawalpindi,Punjab
+PK-100967,2025-12-05,2025-12-10,Standard,Lipstick Set,Beauty & Personal Care,1680,2,0.05,3192,Lahore,Punjab
+PK-100968,2025-12-08,2025-12-12,Standard,School Bag,Books & Stationery,2880,1,0.1,2592,Lahore,Punjab
+PK-100969,2025-12-09,2025-12-13,Standard,Peshawari Chappal,Footwear,2590,2,0.2,4144,Faisalabad,Punjab
+PK-100970,2025-12-10,2025-12-15,Standard,Non-Stick Cookware Set,Home & Kitchen,10160,2,0.2,16256,Karachi,Sindh
+PK-100971,2025-12-10,2025-12-17,Economy,Kids Cotton T-Shirt,Clothing,1430,1,0.25,1072,Islamabad,Islamabad Capital Territory
+PK-100972,2025-12-10,2025-12-15,Standard,Kids Toy Car Set,Baby & Kids,1060,1,0.15,901,Multan,Punjab
+PK-100973,2025-12-11,2025-12-13,Express,Lipstick Set,Beauty & Personal Care,1570,1,0.1,1413,Karachi,Sindh
+PK-100974,2025-12-13,2025-12-18,Standard,Men's Polo Shirt,Clothing,3250,5,0.3,11375,Abbottabad,Khyber Pakhtunkhwa
+PK-100975,2025-12-14,2025-12-19,Standard,Smart Watch,Electronics,10030,5,0.2,40120,Rawalpindi,Punjab
+PK-100976,2025-12-15,2025-12-18,Standard,Men's Lawn Kurta,Clothing,3560,1,0.0,3560,Gujranwala,Punjab
+PK-100977,2025-12-15,2025-12-18,Standard,Women's Khussa,Footwear,3060,2,0.25,4590,Multan,Punjab
+PK-100978,2025-12-15,2025-12-20,Standard,Honey 1kg,Grocery,2300,1,0.1,2070,Peshawar,Khyber Pakhtunkhwa
+PK-100979,2025-12-16,2025-12-19,Standard,Lipstick Set,Beauty & Personal Care,2600,1,0.15,2210,Peshawar,Khyber Pakhtunkhwa
+PK-100980,2025-12-17,2025-12-19,Express,Men's Lawn Kurta,Clothing,5220,2,0.0,10440,Sialkot,Punjab
+PK-100981,2025-12-17,2025-12-21,Standard,Basmati Rice 5kg,Grocery,2520,1,0.0,2520,Faisalabad,Punjab
+PK-100982,2025-12-18,2025-12-21,Standard,Men's Polo Shirt,Clothing,1950,1,0.15,1658,Lahore,Punjab
+PK-100983,2025-12-19,2025-12-21,Express,School Bag,Books & Stationery,2860,3,0.15,7293,Karachi,Sindh
+PK-100984,2025-12-19,2025-12-24,Standard,Women's 3-Piece Lawn Suit,Clothing,4460,1,0.2,3568,Faisalabad,Punjab
+PK-100985,2025-12-19,2025-12-24,Standard,Dinner Set 72 Pcs,Home & Kitchen,10110,2,0.1,18198,Karachi,Sindh
+PK-100986,2025-12-20,2025-12-24,Standard,Green Tea Pack,Grocery,700,1,0.0,700,Lahore,Punjab
+PK-100987,2025-12-21,2025-12-24,Standard,Men's Shalwar Kameez,Clothing,5850,1,0.15,4972,Karachi,Sindh
+PK-100988,2025-12-22,2025-12-27,Standard,Perfume for Men 100ml,Beauty & Personal Care,3730,1,0.15,3170,Rawalpindi,Punjab
+PK-100989,2025-12-23,2025-12-31,Economy,Baby Lotion,Baby & Kids,1430,4,0.05,5434,Karachi,Sindh
+PK-100990,2025-12-24,2025-12-31,Economy,Bluetooth Speaker,Electronics,3440,1,0.1,3096,Faisalabad,Punjab
+PK-100991,2025-12-25,2026-01-01,Economy,"Haier 32"" LED TV",Electronics,42110,1,0.05,40004,Quetta,Balochistan
+PK-100992,2025-12-25,2025-12-29,Standard,Sunblock SPF 50,Beauty & Personal Care,2910,2,0.15,4947,Gujranwala,Punjab
+PK-100993,2025-12-26,2025-12-29,Standard,Women's Khaddar Shawl,Clothing,4960,5,0.0,24800,Lahore,Punjab
+PK-100994,2025-12-26,2025-12-29,Standard,"Haier 32"" LED TV",Electronics,47690,1,0.1,42921,Rawalpindi,Punjab
+PK-100995,2025-12-27,2025-12-30,Standard,Peshawari Chappal,Footwear,4290,1,0.0,4290,Faisalabad,Punjab
+PK-100996,2025-12-28,2026-01-02,Standard,Football (Size 5),Sports & Outdoors,2170,1,0.0,2170,Islamabad,Islamabad Capital Territory
+PK-100997,2025-12-29,2026-01-01,Standard,Men's Shalwar Kameez,Clothing,3760,2,0.0,7520,Multan,Punjab
+PK-100998,2025-12-30,2026-01-03,Standard,Women's Khaddar Shawl,Clothing,4150,3,0.0,12450,Lahore,Punjab
+PK-100999,2025-12-30,2026-01-03,Standard,School Bag,Books & Stationery,3000,3,0.0,9000,Sargodha,Punjab
+PK-101000,2025-12-31,2026-01-03,Standard,Non-Stick Cookware Set,Home & Kitchen,10110,3,0.15,25780,Karachi,Sindh
