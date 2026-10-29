@@ -42,13 +42,6 @@ Pakistani e-commerce order data loaded into a single MySQL table, `pak_ecom_sale
 2. Open `pak_ecom_sales.sql` in MySQL Workbench.
 3. Run the queries one section at a time.
 
-## Key Findings
-
-*(Fill these in after running the queries. For example: the top category, the top province, and the overall discount percentage.)*
-
-- Top category by revenue: 
-- Top province by revenue: 
-- Share of gross revenue given away in discounts: 
 
 ## Notes
 
